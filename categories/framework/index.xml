@@ -1,0 +1,182 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Developer Learning Resource for newbie 網頁開發學習資源 – framework</title>
+    <link>https://web-developer-learning-resource-for-newbie.kejyun.com/categories/framework/</link>
+    <description>Recent content in framework on Web Developer Learning Resource for newbie 網頁開發學習資源</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sat, 17 Apr 2021 08:50:29 +0800</lastBuildDate>
+    
+	  <atom:link href="https://web-developer-learning-resource-for-newbie.kejyun.com/categories/framework/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Framework</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/css/framework/</link>
+      <pubDate>Sat, 17 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/css/framework/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;framework&#34;&gt;Framework&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://getbootstrap.com/&#34;&gt;Bootstrap&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://bootsnipp.com/&#34;&gt;Bootstrap snippets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://coderthemes.com/minton_2.1/material/index.html&#34;&gt;Minton&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.getmdl.io/&#34;&gt;Material Design Lite&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://getuikit.com/&#34;&gt;UIkit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://foundation.zurb.com/&#34;&gt;Foundation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://purecss.io/&#34;&gt;Pure&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://amazeui.org/&#34;&gt;Amaze UI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://amazeui.org/react/&#34;&gt;Amaze UI React&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://material-ui.com/&#34;&gt;Material UI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://concisecss.com/&#34;&gt;Concise&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://storybook.js.org/&#34;&gt;Storybook: UI component explorer for frontend developers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;mobile-framework&#34;&gt;Mobile Framework&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.idangero.us/framework7/&#34;&gt;Framework7 - Full Featured HTML Framework For Building iOS7 Apps&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ionicframework.com/&#34;&gt;Ionic: Advanced HTML5 Hybrid Mobile App Framework&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;icon--font&#34;&gt;Icon &amp;amp; Font&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://fortawesome.github.io/Font-Awesome/&#34;&gt;Font Awesome, the iconic font and CSS toolkit&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;其他&#34;&gt;其他&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://pikock.github.io/bootstrap-magic/&#34;&gt;Bootstrap Magic : Twitter bootstrap themes generator&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;影片&#34;&gt;影片&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLMvLDJ7usmZB-Mu4kNB-Qtr_1serQjfti&#34;&gt;Bootstrap 3 Responsive Tech Site&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;參考設計&#34;&gt;參考設計&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://startbootstrap.com/&#34;&gt;Start Bootstrap - Free Bootstrap Themes and Templates&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;整理比較&#34;&gt;整理比較&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://usablica.github.io/front-end-frameworks/compare.html&#34;&gt;CSS Front-end Frameworks with comparison - By usabli.ca&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Framework</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/javascript/framework/</link>
+      <pubDate>Sat, 17 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/javascript/framework/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: React</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/javascript/framework/react/</link>
+      <pubDate>Sat, 17 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/javascript/framework/react/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;官方網站&#34;&gt;官方網站&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://facebook.github.io/react/&#34;&gt;React&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://facebook.github.io/react-native/&#34;&gt;React Native | A framework for building native apps using React&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;社群&#34;&gt;社群&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/groups/reactjs.tw/&#34;&gt;ReactJS.tw - Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;介紹&#34;&gt;介紹&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://code.facebook.com/videos/786462671439502/react-js-conf-2015-keynote-introducing-react-native-/&#34;&gt;React.js Conf 2015 Keynote - Introducing React Native&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;文件&#34;&gt;文件&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/enaqx/awesome-react&#34;&gt;Awesome React&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ele828/react-native-guide&#34;&gt;React-Native學習指南&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;文章&#34;&gt;文章&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript&#34;&gt;React Native Tutorial: Building Apps with JavaScript&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Vue</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/javascript/framework/vue/</link>
+      <pubDate>Sat, 17 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/javascript/framework/vue/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://vuejs.org/&#34;&gt;Vue.js&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 套件</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/css/plugin/</link>
+      <pubDate>Sat, 17 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/css/plugin/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;正規化&#34;&gt;正規化&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://necolas.github.io/normalize.css/&#34;&gt;normalize.css&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;動畫特效&#34;&gt;動畫特效&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://leaverou.github.io/animatable/&#34;&gt;Animatable: One property, two values, endless possibilities&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://elrumordelaluz.github.io/csshake/&#34;&gt;CSS Shake&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;載入中特效&#34;&gt;載入中特效&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://projects.lukehaas.me/css-loaders/&#34;&gt;Single Element CSS Spinners&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;滑鼠特效&#34;&gt;滑鼠特效&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ianlunn.github.io/Hover/&#34;&gt;Hover.css - A collection of CSS3 powered hover effects&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Svelte</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/javascript/framework/svelte/</link>
+      <pubDate>Sat, 17 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/javascript/framework/svelte/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://svelte.dev/&#34;&gt;Svelte • Cybernetically enhanced web apps&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
