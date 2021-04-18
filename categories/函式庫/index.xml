@@ -1,0 +1,57 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Developer Learning Resource for newbie 網頁開發學習資源 – 函式庫</title>
+    <link>https://web-developer-learning-resource-for-newbie.kejyun.com/categories/%E5%87%BD%E5%BC%8F%E5%BA%AB/</link>
+    <description>Recent content in 函式庫 on Web Developer Learning Resource for newbie 網頁開發學習資源</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sun, 18 Apr 2021 08:50:29 +0800</lastBuildDate>
+    
+	  <atom:link href="https://web-developer-learning-resource-for-newbie.kejyun.com/categories/%E5%87%BD%E5%BC%8F%E5%BA%AB/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: 函式庫</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/javascript/library/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/javascript/library/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;圖表繪圖&#34;&gt;圖表繪圖&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://d3js.org/&#34;&gt;D3.js - Data-Driven Documents&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://echarts.apache.org/zh/index.html&#34;&gt;Apache ECharts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://threejs.org/&#34;&gt;three.js - Javascript 3D library&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.amcharts.com/&#34;&gt;amCharts - JavaScript Charts and Maps&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://p5js.org/&#34;&gt;p5.js&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;影片&#34;&gt;影片&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.videojs.com/&#34;&gt;Video.js&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;html-dom-文件控制&#34;&gt;HTML DOM 文件控制&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://jquery.com/&#34;&gt;jQuery&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://jqueryui.com/&#34;&gt;jQuery UI&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;函式庫&#34;&gt;函式庫&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.javascripting.com/&#34;&gt;JSDB - The Database of JavaScript Libraries&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;時間&#34;&gt;時間&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/d3/d3-time&#34;&gt;d3-time&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

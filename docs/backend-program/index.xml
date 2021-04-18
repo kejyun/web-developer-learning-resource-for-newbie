@@ -1,0 +1,86 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Developer Learning Resource for newbie 網頁開發學習資源 – 後端程式語言 (Backend)</title>
+    <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/backend-program/</link>
+    <description>Recent content in 後端程式語言 (Backend) on Web Developer Learning Resource for newbie 網頁開發學習資源</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sun, 18 Apr 2021 08:50:29 +0800</lastBuildDate>
+    
+	  <atom:link href="https://web-developer-learning-resource-for-newbie.kejyun.com/docs/backend-program/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: PHP</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/backend-program/php/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/backend-program/php/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://roadmap.sh/backend&#34;&gt;Learn to become a modern backend developer&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Python</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/backend-program/python/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/backend-program/python/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://roadmap.sh/backend&#34;&gt;Learn to become a modern backend developer&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: API</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/backend-program/api/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/backend-program/api/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;教學文件&#34;&gt;教學文件&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://kcyeu.gitbooks.io/http-api-design-guide-tc/content/&#34;&gt;HTTP API 設計指南&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;參考-api-文件&#34;&gt;參考 API 文件&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.pixnet.pro/#!/doc/pixnetApi/oauthApi&#34;&gt;PIXNET API developers / MURMUR API developers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Medium/medium-api-docs&#34;&gt;Medium/medium-api-docs: Documentation for Medium&amp;rsquo;s OAuth2 API&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 除錯</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/backend-program/debug/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/backend-program/debug/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

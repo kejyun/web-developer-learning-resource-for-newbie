@@ -5,7 +5,7 @@
     <description>Recent content in Tool on Web Developer Learning Resource for newbie 網頁開發學習資源</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 17 Apr 2021 08:50:29 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 18 Apr 2021 08:50:29 +0800</lastBuildDate>
     
 	  <atom:link href="https://web-developer-learning-resource-for-newbie.kejyun.com/categories/tool/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,6 +14,28 @@
         
       
     
+    
+    <item>
+      <title>Docs: 工具</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/javascript/tool/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/javascript/tool/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;線上圖表繪圖&#34;&gt;線上圖表繪圖&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://raw.densitydesign.org/&#34;&gt;Raw&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://infogr.am/&#34;&gt;Create infographics &amp;amp; online charts | infogr.am&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;編譯&#34;&gt;編譯&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://babeljs.io/&#34;&gt;Babel · The compiler for writing next generation JavaScript&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
     
     <item>
       <title>Docs: 工具</title>

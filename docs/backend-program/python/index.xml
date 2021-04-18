@@ -1,0 +1,41 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Developer Learning Resource for newbie 網頁開發學習資源 – Python</title>
+    <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/backend-program/python/</link>
+    <description>Recent content in Python on Web Developer Learning Resource for newbie 網頁開發學習資源</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sun, 18 Apr 2021 08:50:29 +0800</lastBuildDate>
+    
+	  <atom:link href="https://web-developer-learning-resource-for-newbie.kejyun.com/docs/backend-program/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: 學習資源</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/backend-program/python/learning-resource/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/backend-program/python/learning-resource/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;影片&#34;&gt;影片&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://code.tutsplus.com/series/python-from-scratch--net-20566&#34;&gt;Python from Scratch - Tuts+ Code Tutorials&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.udacity.com/course/cs101&#34;&gt;Intro to Computer Science &amp;amp; Programming Course - Udacity&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;文件&#34;&gt;文件&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://djangogirlstaipei.gitbooks.io/django-girls-taipei-tutorial/content/index.html&#34;&gt;Django Girls 學習指南&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,81 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Developer Learning Resource for newbie 網頁開發學習資源 – plugin</title>
+    <link>https://web-developer-learning-resource-for-newbie.kejyun.com/categories/plugin/</link>
+    <description>Recent content in plugin on Web Developer Learning Resource for newbie 網頁開發學習資源</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sun, 18 Apr 2021 08:50:29 +0800</lastBuildDate>
+    
+	  <atom:link href="https://web-developer-learning-resource-for-newbie.kejyun.com/categories/plugin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: 套件</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/javascript/plugin/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/javascript/plugin/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;檢測&#34;&gt;檢測&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://modernizr.com/&#34;&gt;Modernizer&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;訊息通知&#34;&gt;訊息通知&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://fabien-d.github.io/alertify.js/&#34;&gt;Alertify.js&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;lightbox&#34;&gt;LightBox&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://lokeshdhakar.com/projects/lightbox2/&#34;&gt;Lightbox&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;狀態&#34;&gt;狀態&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://usablica.github.io/progress.js/&#34;&gt;Progress.js - Themeable progress bar library&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;字串處理&#34;&gt;字串處理&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/websanova/js-url&#34;&gt;js-url&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://zdfs.github.io/toscani/paymentInfo/index.html&#34;&gt;Payment Info&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;特效&#34;&gt;特效&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://jackrugile.com/jrumble/&#34;&gt;jRumble | A jQuery Plugin That Rumbles Elements&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;打字&#34;&gt;打字&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mattboldt.com/demos/typed-js/&#34;&gt;jQuery Animated Typing with Typed.js | by Matt Boldt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://albburtsev.github.io/jquery.typist/&#34;&gt;jQuery.typist&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://plugins.jquery.com/typewriter/&#34;&gt;jQuery Typewriter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.davidcrawford.co/typist-jquery/&#34;&gt;Typist jQuery Plugin&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;偵測&#34;&gt;偵測&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/tomgco/gyro.js&#34;&gt;gyro.js - 手機加速器＆陀螺儀偵測&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=1ix03u9Zqg0&#34;&gt;iPhone Gyro CSS 3 node.js&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;效能&#34;&gt;效能&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://jsperf.com/&#34;&gt;jsPerf — JavaScript performance playground&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;除錯&#34;&gt;除錯&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://console.re/try&#34;&gt;Console.Re | Try Remote Javascript Development Console&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://browserify.org/&#34;&gt;Browserify&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

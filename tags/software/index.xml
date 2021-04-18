@@ -1,0 +1,40 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Developer Learning Resource for newbie 網頁開發學習資源 – software</title>
+    <link>https://web-developer-learning-resource-for-newbie.kejyun.com/tags/software/</link>
+    <description>Recent content in software on Web Developer Learning Resource for newbie 網頁開發學習資源</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sat, 17 Apr 2021 08:50:29 +0800</lastBuildDate>
+    
+	  <atom:link href="https://web-developer-learning-resource-for-newbie.kejyun.com/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: 軟體</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/git/software/</link>
+      <pubDate>Sat, 17 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/git/software/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;fork&#34;&gt;Fork&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://git-fork.com/&#34;&gt;Fork - a fast and friendly git client for Mac and Windows&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;sourcetree&#34;&gt;SourceTree&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://confluence.atlassian.com/bitbucket/set-up-an-ssh-key-728138079.html&#34;&gt;Set up an SSH key - Atlassian Documentation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

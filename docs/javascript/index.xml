@@ -28,5 +28,179 @@
       </description>
     </item>
     
+    <item>
+      <title>Docs: 函式庫</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/javascript/library/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/javascript/library/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;圖表繪圖&#34;&gt;圖表繪圖&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://d3js.org/&#34;&gt;D3.js - Data-Driven Documents&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://echarts.apache.org/zh/index.html&#34;&gt;Apache ECharts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://threejs.org/&#34;&gt;three.js - Javascript 3D library&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.amcharts.com/&#34;&gt;amCharts - JavaScript Charts and Maps&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://p5js.org/&#34;&gt;p5.js&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;影片&#34;&gt;影片&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.videojs.com/&#34;&gt;Video.js&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;html-dom-文件控制&#34;&gt;HTML DOM 文件控制&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://jquery.com/&#34;&gt;jQuery&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://jqueryui.com/&#34;&gt;jQuery UI&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;函式庫&#34;&gt;函式庫&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.javascripting.com/&#34;&gt;JSDB - The Database of JavaScript Libraries&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;時間&#34;&gt;時間&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/d3/d3-time&#34;&gt;d3-time&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 套件</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/javascript/plugin/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/javascript/plugin/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;檢測&#34;&gt;檢測&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://modernizr.com/&#34;&gt;Modernizer&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;訊息通知&#34;&gt;訊息通知&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://fabien-d.github.io/alertify.js/&#34;&gt;Alertify.js&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;lightbox&#34;&gt;LightBox&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://lokeshdhakar.com/projects/lightbox2/&#34;&gt;Lightbox&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;狀態&#34;&gt;狀態&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://usablica.github.io/progress.js/&#34;&gt;Progress.js - Themeable progress bar library&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;字串處理&#34;&gt;字串處理&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/websanova/js-url&#34;&gt;js-url&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://zdfs.github.io/toscani/paymentInfo/index.html&#34;&gt;Payment Info&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;特效&#34;&gt;特效&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://jackrugile.com/jrumble/&#34;&gt;jRumble | A jQuery Plugin That Rumbles Elements&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;打字&#34;&gt;打字&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mattboldt.com/demos/typed-js/&#34;&gt;jQuery Animated Typing with Typed.js | by Matt Boldt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://albburtsev.github.io/jquery.typist/&#34;&gt;jQuery.typist&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://plugins.jquery.com/typewriter/&#34;&gt;jQuery Typewriter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.davidcrawford.co/typist-jquery/&#34;&gt;Typist jQuery Plugin&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;偵測&#34;&gt;偵測&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/tomgco/gyro.js&#34;&gt;gyro.js - 手機加速器＆陀螺儀偵測&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=1ix03u9Zqg0&#34;&gt;iPhone Gyro CSS 3 node.js&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;效能&#34;&gt;效能&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://jsperf.com/&#34;&gt;jsPerf — JavaScript performance playground&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;除錯&#34;&gt;除錯&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://console.re/try&#34;&gt;Console.Re | Try Remote Javascript Development Console&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://browserify.org/&#34;&gt;Browserify&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 學習資源</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/javascript/learning-resource/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/javascript/learning-resource/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;影片&#34;&gt;影片&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://teamtreehouse.com/library/javascript-foundations&#34;&gt;JavaScript Foundations Course&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://code.tutsplus.com/courses/30-days-to-learn-jquery&#34;&gt;30 Days to Learn jQuery - Tuts+ Course&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Ukg_U3CnJWI&#34;&gt;Learn JavaScript in 12 Minutes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=fGdd9qNwQdQ&amp;amp;list=PLoYCgNOIyGACTDHuZtn0qoBdpzV9c327V&amp;amp;index=1&#34;&gt;Javascript Fundamentals&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.udacity.com/course/ud989&#34;&gt;JavaScript Design Patterns Organizing code in a disorganized world&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;文章&#34;&gt;文章&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://jstherightway.org/&#34;&gt;JS: The Right Way&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://fredsarmento.me/frontend-tools/&#34;&gt;Frontend Tools&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;設計模式&#34;&gt;設計模式&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://shichuan.github.io/javascript-patterns/&#34;&gt;JavaScript Patterns&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://addyosmani.com/resources/essentialjsdesignpatterns/book/&#34;&gt;Learning JavaScript Design Patterns&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/airbnb/javascript/blob/master/README.md&#34;&gt;Airbnb JavaScript Style Guide&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;文件&#34;&gt;文件&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://zealdocs.org/&#34;&gt;Zeal - offline API documentation browser&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://overapi.com/javascript/&#34;&gt;Javascript Cheat Sheet | OverAPI.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://overapi.com/jquery/&#34;&gt;jQuery Cheat Sheet | OverAPI.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;練習&#34;&gt;練習&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.codecademy.com/en/tracks/javascript/&#34;&gt;JavaScript | Codecademy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;社群&#34;&gt;社群&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/groups/javascript.tw/&#34;&gt;JavaScript.tw - Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/groups/reactjs.tw/&#34;&gt;ReactJS.tw - Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/groups/augularjs.tw/&#34;&gt;AngularJS.tw - Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/groups/d3js.tw/&#34;&gt;D3js.tw - Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/groups/f2e.tw/&#34;&gt;Front-End Developers Taiwan - Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www2.f2e.tw/&#34;&gt;Front-End 台灣&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/groups/node.js.tw/&#34;&gt;node.js台灣 - Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 工具</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/javascript/tool/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/javascript/tool/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;線上圖表繪圖&#34;&gt;線上圖表繪圖&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://raw.densitydesign.org/&#34;&gt;Raw&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://infogr.am/&#34;&gt;Create infographics &amp;amp; online charts | infogr.am&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;編譯&#34;&gt;編譯&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://babeljs.io/&#34;&gt;Babel · The compiler for writing next generation JavaScript&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
   </channel>
 </rss>

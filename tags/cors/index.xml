@@ -1,0 +1,44 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Developer Learning Resource for newbie 網頁開發學習資源 – cors</title>
+    <link>https://web-developer-learning-resource-for-newbie.kejyun.com/tags/cors/</link>
+    <description>Recent content in cors on Web Developer Learning Resource for newbie 網頁開發學習資源</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sun, 18 Apr 2021 08:50:29 +0800</lastBuildDate>
+    
+	  <atom:link href="https://web-developer-learning-resource-for-newbie.kejyun.com/tags/cors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: cors</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/backend-program/debug/cors/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/backend-program/debug/cors/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;corscross-origin-resource-sharing&#34;&gt;CORS(Cross-Origin Resource Sharing)&lt;/h2&gt;
+&lt;p&gt;將您要測試遠端 API 的服務網址加入下方的 &lt;code&gt;http://EXAMPLE.COM/SOME/API&lt;/code&gt; 位置，就可以至抓取到 API 的允許連線來源是什麼&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;curl -I -X OPTIONS &lt;span style=&#34;color:#4e9a06&#34;&gt;\
+&lt;/span&gt;&lt;span style=&#34;color:#4e9a06&#34;&gt;&lt;/span&gt;  -H &lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#34;Origin: http://EXAMPLE.COM&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#4e9a06&#34;&gt;\
+&lt;/span&gt;&lt;span style=&#34;color:#4e9a06&#34;&gt;&lt;/span&gt;  -H &lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#39;Access-Control-Request-Method: GET&amp;#39;&lt;/span&gt; &lt;span style=&#34;color:#4e9a06&#34;&gt;\
+&lt;/span&gt;&lt;span style=&#34;color:#4e9a06&#34;&gt;&lt;/span&gt;  http://EXAMPLE.COM/SOME/API 2&amp;gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;&amp;amp;&lt;/span&gt;&lt;span style=&#34;color:#0000cf;font-weight:bold&#34;&gt;1&lt;/span&gt; &lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;|&lt;/span&gt; grep &lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#39;Access-Control-Allow-Origin&amp;#39;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;假如 API 有設定 &lt;code&gt;Access-Control-Allow-Origin&lt;/code&gt; 的話則會顯示下方訊息，如果都沒有設定的話，就會顯示空白&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;Access-Control-Allow-Origin: *
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h1 id=&#34;參考資料&#34;&gt;參考資料&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gist.github.com/exAspArk/07bbbafa2a9171b6c260989780cc0955&#34;&gt;Test CORS with cURL · GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
