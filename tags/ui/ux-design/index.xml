@@ -1,0 +1,164 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Developer Learning Resource for newbie 網頁開發學習資源 – UI/UX Design</title>
+    <link>https://web-developer-learning-resource-for-newbie.kejyun.com/tags/ui/ux-design/</link>
+    <description>Recent content in UI/UX Design on Web Developer Learning Resource for newbie 網頁開發學習資源</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    
+	  <atom:link href="https://web-developer-learning-resource-for-newbie.kejyun.com/tags/ui/ux-design/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: 配色</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/ui-ux-design/color/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/ui-ux-design/color/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;色彩選擇&#34;&gt;色彩選擇&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://color.adobe.com/explore&#34;&gt;Adobe Color&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kuler.adobe.com/zh/explore/newest/&#34;&gt;Adobe Kuler&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.colorhexa.com/&#34;&gt;ColorHexa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://coolors.co/&#34;&gt;Coolors&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://paletton.com/&#34;&gt;Paletton - The Color Scheme Designer&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 設計模式</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/ui-ux-design/design-pattern/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/ui-ux-design/design-pattern/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;web&#34;&gt;Web&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://patterntap.com/&#34;&gt;The Main Tap › PatternTap&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;手機&#34;&gt;手機&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.pttrns.com/&#34;&gt;Pttrns - Mobile UI Patterns&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;rwd&#34;&gt;RWD&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://mediaqueri.es/&#34;&gt;Media Queries&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 影片</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/ui-ux-design/video/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/ui-ux-design/video/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.udacity.com/course/design101&#34;&gt;Intro to the Design of Everyday Things - Udacity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.udacity.com/course/ud849&#34;&gt;UX Design for Mobile Developers Course - Udacity&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 工具</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/ui-ux-design/tools/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/ui-ux-design/tools/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.layoutit.com/&#34;&gt;LayoutIt! - Interface Builder for Bootstrap&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;wireframemockupprototype&#34;&gt;Wireframe、Mockup、Prototype&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.figma.com/&#34;&gt;Figma: the collaborative interface design tool.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://miro.com/&#34;&gt;An Online Visual Collaboration Platform for Teamwork | Miro&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://balsamiq.com/&#34;&gt;Balsamiq&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.axure.com/&#34;&gt;Axure&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.adobe.com/tw/products/xd.html&#34;&gt;Adobe Xd&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sketchapp.com/&#34;&gt;Sketch&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 文章</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/ui-ux-design/article/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/ui-ux-design/article/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;英文&#34;&gt;英文&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.google.com/design/spec/material-design/introduction.html&#34;&gt;Google Material Design&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;中文&#34;&gt;中文&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://wcc723.gitbooks.io/google_design_translate/content/index.html&#34;&gt;Google Material Design 正體中文版&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.fourdesire.com/&#34;&gt;Fourdesire&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.clifftechnologies.com.tw/category/web-design/&#34;&gt;網站設計 | Cliff Technologies&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;wireframemockupprototype&#34;&gt;Wireframe、Mockup、Prototype&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://kopu.chat/2017/06/22/wireframe%E3%80%81mockup%E8%88%87prototype%E7%9A%84%E5%B7%AE%E7%95%B0%EF%BC%9F%E4%BE%86%E7%9C%8B%E7%9C%8B%E5%AE%8C%E6%95%B4%E7%9A%84%E7%94%A2%E5%93%81ui%E8%A8%AD%E8%A8%88%E6%B5%81%E7%A8%8B/&#34;&gt;Wireframe、Mockup與Prototype的差異？來看看完整的產品UI設計流程&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 學習資源</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/ui-ux-design/resource/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/ui-ux-design/resource/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://resources.ogdesign.tw/&#34;&gt;設計必備資源總匯 - 奧革設計&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tenten.co/blog/tenten-frontend-mac-apps-2016/&#34;&gt;転転愛用的前端小工具 2016&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://collectui.com/&#34;&gt;Collect UI&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: UI/UX Design</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/ui-ux-design/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/ui-ux-design/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,375 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Developer Learning Resource for newbie 網頁開發學習資源 – 軟體工具</title>
+    <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/</link>
+    <description>Recent content in 軟體工具 on Web Developer Learning Resource for newbie 網頁開發學習資源</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sun, 18 Apr 2021 08:50:29 +0800</lastBuildDate>
+    
+	  <atom:link href="https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: 編輯器</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/code-editor/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/code-editor/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;編輯器軟體&#34;&gt;編輯器軟體&lt;/h1&gt;
+&lt;h2 id=&#34;桌機&#34;&gt;桌機&lt;/h2&gt;
+&lt;h3 id=&#34;免費&#34;&gt;免費&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sublimetext.com/3&#34;&gt;Sublime Text 3&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jdc0589/CaseConversion&#34;&gt;大小寫文字樣式轉換&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://atom.io/&#34;&gt;Atom&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://netbeans.org/&#34;&gt;NetBeans&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://eclipse.org/downloads/&#34;&gt;Eclipse&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://notepad-plus-plus.org/&#34;&gt;Notepad ++&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;付費&#34;&gt;付費&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jetbrains.com/phpstorm/&#34;&gt;PHP IDE :: JetBrains PhpStorm&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;線上&#34;&gt;線上&lt;/h2&gt;
+&lt;h3 id=&#34;前端&#34;&gt;前端&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://jsbin.com/&#34;&gt;JS Bin - Collaborative JavaScript Debugging&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://codepen.io/&#34;&gt;CodePen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://jsfiddle.net/&#34;&gt;jsFiddle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://tinkerbin.heroku.com/&#34;&gt;Tinkerbin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://pastebin.com/&#34;&gt;Pastebin&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;資料庫&#34;&gt;資料庫&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://sqlfiddle.com/&#34;&gt;SQL Fiddle&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;後端&#34;&gt;後端&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://codepad.viper-7.com/&#34;&gt;codepad - PHP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://phpfiddle.org/&#34;&gt;PHP Fiddle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://rubyfiddle.com/&#34;&gt;RUBY Fiddle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://repl.it/&#34;&gt;repl.it - Online REPL, Compiler &amp;amp; IDE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.dooccn.com/&#34;&gt;代码在线编辑,代码在线运行,在线写代码工具&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;文件&#34;&gt;文件&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://hackpad.com/&#34;&gt;Hackpad&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;虛擬主機&#34;&gt;虛擬主機&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://koding.com/Home&#34;&gt;Koding | Say goodbye to your localhost and code in the cloud.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 文件</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/document/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/document/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;api-文件&#34;&gt;API 文件&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://swagger.io/&#34;&gt;API Documentation &amp;amp; Design Tools for Teams | Swagger&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;共同作業&#34;&gt;共同作業&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://hackpad.com/&#34;&gt;Hackpad&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://drive.google.com/&#34;&gt;Google Drive&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;心智圖&#34;&gt;心智圖&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.xmind.net/&#34;&gt;xmind&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;流程圖&#34;&gt;流程圖&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.draw.io/&#34;&gt;Draw.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;文書&#34;&gt;文書&lt;/h2&gt;
+&lt;h3 id=&#34;markdown&#34;&gt;Markdown&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ulyssesapp.com/&#34;&gt;Ulysses&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;文件&#34;&gt;文件&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://kapeli.com/dash&#34;&gt;Dash&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 專案管理</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/project-management/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/project-management/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;一般專案管理&#34;&gt;一般專案管理&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://trello.com/&#34;&gt;Trello&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://asana.com/&#34;&gt;Asana&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://miro.com/&#34;&gt;Miro | Free Online Collaborative Whiteboard Platform&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.redmine.org/&#34;&gt;Redmine&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;看板資料管理&#34;&gt;看板資料管理&lt;/h2&gt;
+&lt;h2 id=&#34;敏捷開發&#34;&gt;敏捷開發&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.thoughtworks.com/mingle/&#34;&gt;Project Management Software | Mingle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.atlassian.com/software/jira&#34;&gt;JIRA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.targetprocess.com/&#34;&gt;Targetprocess&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;版本控制&#34;&gt;版本控制&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.git-tower.com/&#34;&gt;Tower&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sourcetreeapp.com/&#34;&gt;Source Tree&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bitbucket.org/product/server&#34;&gt;Bitbucket&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Mockup</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/mockup/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/mockup/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;mockup-軟體&#34;&gt;Mockup 軟體&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.figma.com/&#34;&gt;Figma: the collaborative interface design tool.&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.figma.com/community&#34;&gt;Community – Figma&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.figmacrush.com/&#34;&gt;Figma Templates, UI kits and Freebies - Free Figma resources&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://figmacn.com/resource/figma-crush&#34;&gt;免费的 Figma 资源、模板 | Figma 中文网（非官方）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=3q3FV65ZrUs&#34;&gt;Figma Tutorial - A Free UI Design/Prototyping Tool. It&amp;rsquo;s awesome. - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/channel/UCQsVmhSa4X-G3lHlUtejzLA/videos&#34;&gt;Figma - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cacoo.com/&#34;&gt;Online Diagram and Flowchart Software | Cacoo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://moqups.com/&#34;&gt;Moqups&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sketch.com/&#34;&gt;Sketch - The digital design toolkit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.invisionapp.com/&#34;&gt;InVision | Digital product design, workflow &amp;amp; collaboration&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zeplin.io/&#34;&gt;Zeplin—Collaboration and handoff for product teams | Zeplin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.flinto.com/&#34;&gt;Flinto – The App Design App&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://balsamiq.com/&#34;&gt;Balsamiq Mockups&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://marvelapp.com/&#34;&gt;Marvel - The design platform for digital products. Get started for free.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 伺服器</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/server-sevice/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/server-sevice/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;綜合&#34;&gt;綜合&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.apachefriends.org/zh_tw/index.html&#34;&gt;XAMPP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mamp.info/en/&#34;&gt;MAMP&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;apache&#34;&gt;Apache&lt;/h2&gt;
+&lt;h3 id=&#34;文件&#34;&gt;文件&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://overapi.com/mod_rewrite/&#34;&gt;mod_rewrite Cheat Sheet | OverAPI.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;mysql&#34;&gt;MySQL&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sequelpro.com/&#34;&gt;Sequel Pro&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;虛擬主機&#34;&gt;虛擬主機&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.vagrantup.com/&#34;&gt;Vagrant&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 繪圖</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/painting/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/painting/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;繪圖&#34;&gt;繪圖&lt;/h2&gt;
+&lt;h3 id=&#34;免費&#34;&gt;免費&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://krita.org/&#34;&gt;Krita | Digital Painting. Creative Freedom.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://mybrushes-app.com/drawing-tool/MyBrushes-TR.html&#34;&gt;MyBrushes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;試用&#34;&gt;試用&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://affinity.serif.com/en-gb/photo/&#34;&gt;Affinity Photo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;線上&#34;&gt;線上&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://pixlr.com/&#34;&gt;Pixlr&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;截圖&#34;&gt;截圖&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://itunes.apple.com/us/app/annotate-capture-screenshot/id918207447?mt=12&#34;&gt;Annotate&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;圖片處理&#34;&gt;圖片處理&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://itunes.apple.com/us/app/photobulk-watermark-resize/id537211143?mt=12&#34;&gt;Photobulk - 批次修改圖片大小&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://imageoptim.com/&#34;&gt;Image Optim - 圖片壓縮&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;管理&#34;&gt;管理&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://realmacsoftware.com/ember/&#34;&gt;Ember - 設計搜集&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.invisionapp.com/&#34;&gt;Invision  - 設計溝通&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 網路</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/network/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/network/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;傳輸&#34;&gt;傳輸&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://panic.com/transmit/&#34;&gt;Transmit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.scootersoftware.com/&#34;&gt;Beyond Compare&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 管理</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/management/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/management/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://iterm2.com/&#34;&gt;iTerm2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.publicspace.net/ABetterFinderRename/&#34;&gt;A Better Finder Rename - 批次更換檔名&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 條碼</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/barcode-qrcode/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/barcode-qrcode/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;產生器&#34;&gt;產生器&lt;/h2&gt;
+&lt;h3 id=&#34;qr-code&#34;&gt;QR Code&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.qr-code-generator.com/&#34;&gt;QR Code Generator - Create QR codes here&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.the-qrcode-generator.com/&#34;&gt;QR Code Generator&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 開發除錯</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/dev-debug/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/dev-debug/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;chrome&#34;&gt;Chrome&lt;/h2&gt;
+&lt;h3 id=&#34;佈景主題&#34;&gt;佈景主題&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/mauricecruz/chrome-devtools-zerodarkmatrix-theme&#34;&gt;ZeroDarkMatrix Theme for Chrome&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Log</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/log/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/log/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.elastic.co/what-is/elk-stack&#34;&gt;ELK Stack: Elasticsearch, Logstash, Kibana | Elastic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sentry.io/&#34;&gt;Application Monitoring and Error Tracking Software | Sentry&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 監控 Monitor</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/monitor/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/monitor/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://grafana.com/&#34;&gt;Grafana: The open observability platform | Grafana Labs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://prometheus.io/&#34;&gt;Prometheus - Monitoring system &amp;amp; time series database&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 轉換</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/transform/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/transform/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

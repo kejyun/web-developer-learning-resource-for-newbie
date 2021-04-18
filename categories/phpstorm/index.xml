@@ -1,0 +1,124 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Developer Learning Resource for newbie 網頁開發學習資源 – phpstorm</title>
+    <link>https://web-developer-learning-resource-for-newbie.kejyun.com/categories/phpstorm/</link>
+    <description>Recent content in phpstorm on Web Developer Learning Resource for newbie 網頁開發學習資源</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sun, 18 Apr 2021 08:50:29 +0800</lastBuildDate>
+    
+	  <atom:link href="https://web-developer-learning-resource-for-newbie.kejyun.com/categories/phpstorm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: phpstorm</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/code-editor/phpstorm/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/code-editor/phpstorm/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;sftp-檔案自動同步&#34;&gt;SFTP 檔案自動同步&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;1. 部署方式&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;選單 &amp;gt; &lt;code&gt;Tools&lt;/code&gt; &amp;gt; &lt;code&gt;Deployment&lt;/code&gt; &amp;gt; &lt;code&gt;Configuration&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;../images/phpstorm-tools-deployment-configuration.png&#34; alt=&#34;部署方式&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. 設定部署連線方式&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在 &lt;code&gt;Connection&lt;/code&gt; 的頁籤選擇使用 &lt;code&gt;SFTP&lt;/code&gt; 去連線&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;選項&lt;/th&gt;
+&lt;th&gt;說明&lt;/th&gt;
+&lt;th&gt;範例&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;SFTP host&lt;/td&gt;
+&lt;td&gt;主機網址&lt;/td&gt;
+&lt;td&gt;server.kejyun.com&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Port&lt;/td&gt;
+&lt;td&gt;連接阜&lt;/td&gt;
+&lt;td&gt;22&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Root path&lt;/td&gt;
+&lt;td&gt;根目錄&lt;/td&gt;
+&lt;td&gt;/home/kejyun/blog&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;User name&lt;/td&gt;
+&lt;td&gt;帳號&lt;/td&gt;
+&lt;td&gt;kejyun&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Auth type&lt;/td&gt;
+&lt;td&gt;驗證方式&lt;/td&gt;
+&lt;td&gt;Key pair&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Private key file&lt;/td&gt;
+&lt;td&gt;私密金鑰&lt;/td&gt;
+&lt;td&gt;/Users/kejyun/.ssh/id_rsa&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;img src=&#34;../images/phpstorm-tools-deployment-configuration-connection.png&#34; alt=&#34;設定部署連線方式&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. 設定部署資料夾對應方式&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;選項&lt;/th&gt;
+&lt;th&gt;說明&lt;/th&gt;
+&lt;th&gt;範例&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Local path&lt;/td&gt;
+&lt;td&gt;本地端路徑&lt;/td&gt;
+&lt;td&gt;/Users/kejyun/Code/Blog&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Deployment path on server&lt;/td&gt;
+&lt;td&gt;部署路徑&lt;/td&gt;
+&lt;td&gt;/&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;blockquote&gt;
+&lt;p&gt;關於 &lt;code&gt;Deployment path on server&lt;/code&gt;，這裡的路徑指的是相對於 &lt;code&gt;Root path&lt;/code&gt; 的路徑，若 &lt;code&gt;Root path&lt;/code&gt; 為 &lt;code&gt;/home/kejyun/blog&lt;/code&gt; 而 &lt;code&gt;Deployment path on server&lt;/code&gt; 為 &lt;code&gt;web&lt;/code&gt;，則在本地端專案的 &lt;code&gt;test.txt&lt;/code&gt; 檔案就會被上傳到遠端的 &lt;code&gt;/home/kejyun/blog/web&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;設定完成後點選 &lt;code&gt;Use this server as default&lt;/code&gt; 就可以設定此專案使用這個連線設定&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/phpstorm-tools-deployment-configuration-mappings.png&#34; alt=&#34;設定部署資料夾對應方式&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4. 部署選項&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;選單 &amp;gt; &lt;code&gt;Tools&lt;/code&gt; &amp;gt; &lt;code&gt;Deployment&lt;/code&gt; &amp;gt; &lt;code&gt;Options&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;../images/phpstorm-tools-deployment-options.png&#34; alt=&#34;部署選項&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;5. 設定部署選項&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;選擇 &lt;code&gt;On explicit save action&lt;/code&gt; 設定儲存檔案時自動上傳&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/phpstorm-tools-deployment-options-setting.png&#34; alt=&#34;設定部署選項&#34;&gt;&lt;/p&gt;
+&lt;p&gt;設定完成後，就可以在專案中，儲存檔案時自動將檔案上傳到遠端伺服器了！&lt;/p&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://confluence.jetbrains.com/display/PhpStorm/Sync+changes+and+automatic+upload+to+a+deployment+server+in+PhpStorm&#34;&gt;Sync changes and automatic upload to a deployment server in PhpStorm - PhpStorm - Confluence&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jetbrains.com/help/phpstorm/2016.2/options.html&#34;&gt;PhpStorm 2016.2 Help :: Options&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://plugins.jetbrains.com/plugin/7374-source-synchronizer&#34;&gt;Source Synchronizer - Plugins | JetBrains&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

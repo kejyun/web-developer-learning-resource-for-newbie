@@ -1,0 +1,52 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Developer Learning Resource for newbie 網頁開發學習資源 – 專案管理</title>
+    <link>https://web-developer-learning-resource-for-newbie.kejyun.com/tags/%E5%B0%88%E6%A1%88%E7%AE%A1%E7%90%86/</link>
+    <description>Recent content in 專案管理 on Web Developer Learning Resource for newbie 網頁開發學習資源</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sun, 18 Apr 2021 08:50:29 +0800</lastBuildDate>
+    
+	  <atom:link href="https://web-developer-learning-resource-for-newbie.kejyun.com/tags/%E5%B0%88%E6%A1%88%E7%AE%A1%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: 專案管理</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/project-management/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/project-management/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;一般專案管理&#34;&gt;一般專案管理&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://trello.com/&#34;&gt;Trello&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://asana.com/&#34;&gt;Asana&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://miro.com/&#34;&gt;Miro | Free Online Collaborative Whiteboard Platform&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.redmine.org/&#34;&gt;Redmine&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;看板資料管理&#34;&gt;看板資料管理&lt;/h2&gt;
+&lt;h2 id=&#34;敏捷開發&#34;&gt;敏捷開發&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.thoughtworks.com/mingle/&#34;&gt;Project Management Software | Mingle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.atlassian.com/software/jira&#34;&gt;JIRA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.targetprocess.com/&#34;&gt;Targetprocess&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;版本控制&#34;&gt;版本控制&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.git-tower.com/&#34;&gt;Tower&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sourcetreeapp.com/&#34;&gt;Source Tree&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bitbucket.org/product/server&#34;&gt;Bitbucket&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

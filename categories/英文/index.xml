@@ -1,0 +1,37 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Developer Learning Resource for newbie 網頁開發學習資源 – 英文</title>
+    <link>https://web-developer-learning-resource-for-newbie.kejyun.com/categories/%E8%8B%B1%E6%96%87/</link>
+    <description>Recent content in 英文 on Web Developer Learning Resource for newbie 網頁開發學習資源</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sun, 18 Apr 2021 08:50:29 +0800</lastBuildDate>
+    
+	  <atom:link href="https://web-developer-learning-resource-for-newbie.kejyun.com/categories/%E8%8B%B1%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: 英文字型</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/font/english/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/font/english/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;英文字型&#34;&gt;英文字型&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/fonts&#34;&gt;Google Fonts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://madmalik.github.io/mononoki/&#34;&gt;mononoki Fonts&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

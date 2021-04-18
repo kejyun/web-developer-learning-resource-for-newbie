@@ -1,0 +1,59 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Developer Learning Resource for newbie 網頁開發學習資源 – iPhone Safari</title>
+    <link>https://web-developer-learning-resource-for-newbie.kejyun.com/tags/iphone-safari/</link>
+    <description>Recent content in iPhone Safari on Web Developer Learning Resource for newbie 網頁開發學習資源</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sun, 18 Apr 2021 08:50:29 +0800</lastBuildDate>
+    
+	  <atom:link href="https://web-developer-learning-resource-for-newbie.kejyun.com/tags/iphone-safari/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: iPhone Safari</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/debug/iphone-safari/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/debug/iphone-safari/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;iphone-safari-除錯&#34;&gt;iPhone Safari 除錯&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;1. 設定 iPhone&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;設定(Setting)&lt;/code&gt; &amp;gt; &lt;code&gt;Safari&lt;/code&gt; &amp;gt; &lt;code&gt;進階（Advanced）&lt;/code&gt; &amp;gt; &lt;code&gt;網頁檢視器（Web Inspector）&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/debug-iphone-safari-setting-advance.jpg&#34; alt=&#34;iPhone Safari Setting Advance&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/debug-iphone-safari-setting-advance-web-inspector.jpg&#34; alt=&#34;iPhone Safari Setting Advance Web Inspector&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. 設定 Macbook Safari&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;開啟 Macbook Safari，點選 &lt;code&gt;preferences&lt;/code&gt; 設定&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/debug-macbook-safari-preferences.png&#34; alt=&#34;Macbook Safari Preferences&#34;&gt;&lt;/p&gt;
+&lt;p&gt;在 &lt;code&gt;Advanced&lt;/code&gt; 頁籤，勾選 &lt;code&gt;Show Develop menu in menu bar&lt;/code&gt;，就可以在最上方選單看到 &lt;code&gt;Develop&lt;/code&gt; 的選項&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/debug-macbook-safari-preferences-show-develop-menu.png&#34; alt=&#34;Macbook Safari Preferences Show Developer Menu&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. 使用 Macbook Safari Web Inspector 除錯&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;將 iphone 使用 usb 線連至電腦，並開啟 iphone 的 Safari，開啟要除錯的網頁&lt;/p&gt;
+&lt;p&gt;在 Macbook Safari 的 &lt;code&gt;Develop&lt;/code&gt; 選單中可以看到自己的手機，點選要除錯的視窗標題&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/debug-macbook-safari-develop-menu.png&#34; alt=&#34;Macbook Safari Preferences Developer Menu&#34;&gt;&lt;/p&gt;
+&lt;p&gt;在 Safari Web Inspector中，將指標移動到 Google 首頁的台灣字樣，選取整個元素&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/debug-macbook-safari-develop-menu-web-inspector.png&#34; alt=&#34;Macbook Safari Preferences Developer Menu&#34;&gt;&lt;/p&gt;
+&lt;p&gt;可以看到在 iphone Safari 也可以同步看到台灣字樣的元素被選取&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/debug-macbook-safari-develop-menu-web-inspector-iphone.jpg&#34; alt=&#34;Macbook Safari Preferences Developer Menu&#34;&gt;&lt;/p&gt;
+&lt;p&gt;使用 Web Inspector，將 &lt;code&gt;台灣&lt;/code&gt; 修改為 &lt;code&gt;台灣 Taiwan&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/debug-macbook-safari-develop-menu-web-inspector-change-text.png&#34; alt=&#34;Macbook Safari Preferences Developer Menu&#34;&gt;&lt;/p&gt;
+&lt;p&gt;修改完後，可以同步看到 iphone Safari 的文字也被修改了&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/debug-macbook-safari-develop-menu-web-inspector-change-text-iphone.jpg&#34; alt=&#34;Macbook Safari Preferences Developer Menu&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.telerik.com/featured/a-concise-guide-to-remote-debugging-on-ios-android-and-windows-phone/&#34;&gt;A Concise Guide to Remote Debugging on iOS, Android, and Windows Phone - Telerik Developer Network&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.wfublog.com/2017/12/chrome-ios-remote-debug-webkit-adapter.html&#34;&gt;利用 Chrome 對 iOS 裝置進行除錯(iPhone、iPad)的絕佳方案＠WFU BLOG&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Developer Learning Resource for newbie 網頁開發學習資源 – JSON</title>
+    <link>https://web-developer-learning-resource-for-newbie.kejyun.com/categories/json/</link>
+    <description>Recent content in JSON on Web Developer Learning Resource for newbie 網頁開發學習資源</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sun, 18 Apr 2021 08:50:29 +0800</lastBuildDate>
+    
+	  <atom:link href="https://web-developer-learning-resource-for-newbie.kejyun.com/categories/json/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: 轉換 JSON / YAML / TOML</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/transform/json-yaml-toml/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/transform/json-yaml-toml/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;轉換工具&#34;&gt;轉換工具&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://toolkit.site/format.html&#34;&gt;Data Format Converter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@WeZZard/json-%E5%B0%B1%E5%A4%A0%E4%BA%86-%E7%88%B2%E4%BB%80%E9%BA%BC%E9%82%84%E8%A6%81-toml-%E5%92%8C-yaml-9f0a288dcdbf&#34;&gt;JSON 就夠了，爲什麼還要 TOML 和 YAML？. 最近研究 Rust 和 CI，被迫瞭解了 TOML 和… | by WeZZard | Medium&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,7 +5,7 @@
     <description>Recent content in software on Web Developer Learning Resource for newbie 網頁開發學習資源</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 17 Apr 2021 08:50:29 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 18 Apr 2021 08:50:29 +0800</lastBuildDate>
     
 	  <atom:link href="https://web-developer-learning-resource-for-newbie.kejyun.com/categories/software/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,6 +14,218 @@
         
       
     
+    
+    <item>
+      <title>Docs: Figma</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/mockup/figma/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/mockup/figma/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;圖片&#34;&gt;圖片&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=saoB8uqUAH8&#34;&gt;Figma Tutorial: Images - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=hns2FUaTsBg&#34;&gt;How To CROP Image In Figma - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;frame&#34;&gt;Frame&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=gaSlNKFSetI&#34;&gt;#05: Figma Frame Tips - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;元件-components&#34;&gt;元件 Components&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=IHEh9HFBtFU&#34;&gt;Figma Tutorial: Components - Swapping and States - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.figma.com/blog/components-in-figma/&#34;&gt;Components in Figma&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;連結&#34;&gt;連結&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://help.figma.com/hc/en-us/articles/360045942953-Add-links-to-text&#34;&gt;Add links to text – Figma&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;scroll&#34;&gt;Scroll&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ST6DOO11zuA&#34;&gt;Figma Tutorial: Device Frames and Scrolling - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;prototyping&#34;&gt;Prototyping&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=-sAAa-CCOcg&#34;&gt;Figma Tutorial: Prototyping - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;embed-嵌入&#34;&gt;Embed 嵌入&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://help.figma.com/hc/en-us/articles/360039827134-Figma-Live-Embed&#34;&gt;Figma Live Embed – Figma&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;社群&#34;&gt;社群&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.figma.com/community&#34;&gt;Community – Figma&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;套件&#34;&gt;套件&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.figmacrush.com/&#34;&gt;Figma Templates, UI kits and Freebies - Free Figma resources&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://figmacn.com/resource/figma-crush&#34;&gt;免费的 Figma 资源、模板 | Figma 中文网（非官方）&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;快捷鍵-keyboard-shortcuts&#34;&gt;快捷鍵 Keyboard Shortcuts&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://help.figma.com/hc/en-us/articles/360040328653-Speed-up-your-workflow-with-Keyboard-Shortcuts&#34;&gt;Speed up your workflow with Keyboard Shortcuts – Figma&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;教學&#34;&gt;教學&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=3q3FV65ZrUs&#34;&gt;Figma Tutorial - A Free UI Design/Prototyping Tool. It&amp;rsquo;s awesome. - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/channel/UCQsVmhSa4X-G3lHlUtejzLA/videos&#34;&gt;Figma - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://figmachina.com/guide/&#34;&gt;开始使用 | FigmaChina：Figma 中文网，学习 Figma 从这里开始&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;參考文章&#34;&gt;參考文章&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://help.figma.com/hc/en-us/articles/360039832054-Frames-and-Groups&#34;&gt;Frames and Groups – Figma&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Sublime</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/code-editor/sublime/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/code-editor/sublime/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;使用-sftp-即時上傳檔案&#34;&gt;使用 SFTP 即時上傳檔案&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;安裝套件&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;使用 Sublime Packages Controller 安裝 &lt;code&gt;Simple FTP Deploy&lt;/code&gt; 套件&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;設定 sftp-config.json&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在專案目錄下建立 &lt;code&gt;sftp-config.json&lt;/code&gt; 檔案，並將此設定值填入到檔案中，並加入自己主機的相關設定&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-json&#34; data-lang=&#34;json&#34;&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;{&lt;/span&gt;
+    &lt;span style=&#34;color:#a40000&#34;&gt;//&lt;/span&gt; &lt;span style=&#34;color:#a40000&#34;&gt;The&lt;/span&gt; &lt;span style=&#34;color:#a40000&#34;&gt;tab&lt;/span&gt; &lt;span style=&#34;color:#a40000&#34;&gt;key&lt;/span&gt; &lt;span style=&#34;color:#a40000&#34;&gt;will&lt;/span&gt; &lt;span style=&#34;color:#a40000&#34;&gt;cycle&lt;/span&gt; &lt;span style=&#34;color:#a40000&#34;&gt;through&lt;/span&gt; &lt;span style=&#34;color:#a40000&#34;&gt;the&lt;/span&gt; &lt;span style=&#34;color:#a40000&#34;&gt;settings&lt;/span&gt; &lt;span style=&#34;color:#a40000&#34;&gt;when&lt;/span&gt; &lt;span style=&#34;color:#a40000&#34;&gt;first&lt;/span&gt; &lt;span style=&#34;color:#a40000&#34;&gt;created&lt;/span&gt;
+    &lt;span style=&#34;color:#a40000&#34;&gt;//&lt;/span&gt; &lt;span style=&#34;color:#a40000&#34;&gt;Visit&lt;/span&gt; &lt;span style=&#34;color:#a40000&#34;&gt;http://wbond.net/sublime_packages/sftp/settings&lt;/span&gt; &lt;span style=&#34;color:#a40000&#34;&gt;for&lt;/span&gt; &lt;span style=&#34;color:#a40000&#34;&gt;help&lt;/span&gt;
+
+    &lt;span style=&#34;color:#a40000&#34;&gt;//&lt;/span&gt; &lt;span style=&#34;color:#a40000&#34;&gt;sftp,&lt;/span&gt; &lt;span style=&#34;color:#a40000&#34;&gt;ftp&lt;/span&gt; &lt;span style=&#34;color:#a40000&#34;&gt;or&lt;/span&gt; &lt;span style=&#34;color:#a40000&#34;&gt;ftps&lt;/span&gt;
+    &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;type&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#34;sftp&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+
+    &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;sync_down_on_open&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;true&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+    &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;sync_same_age&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;true&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+
+    &lt;span style=&#34;color:#a40000&#34;&gt;//&lt;/span&gt; &lt;span style=&#34;color:#a40000&#34;&gt;主機網址&lt;/span&gt;
+    &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;host&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#34;server.kejyun.com&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+    &lt;span style=&#34;color:#a40000&#34;&gt;//&lt;/span&gt; &lt;span style=&#34;color:#a40000&#34;&gt;帳號&lt;/span&gt;
+    &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;user&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#34;username&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+    &lt;span style=&#34;color:#a40000&#34;&gt;//&lt;/span&gt; &lt;span style=&#34;color:#a40000&#34;&gt;密碼&lt;/span&gt;
+    &lt;span style=&#34;color:#a40000&#34;&gt;//&lt;/span&gt; &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;password&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#34;password&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+    &lt;span style=&#34;color:#a40000&#34;&gt;//&lt;/span&gt; &lt;span style=&#34;color:#a40000&#34;&gt;Port&lt;/span&gt;
+    &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;port&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#34;22222&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+    &lt;span style=&#34;color:#a40000&#34;&gt;//&lt;/span&gt; &lt;span style=&#34;color:#a40000&#34;&gt;是否在儲存檔案時立即上傳檔案&lt;/span&gt;
+    &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;upload_on_save&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;true&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+
+    &lt;span style=&#34;color:#a40000&#34;&gt;//&lt;/span&gt; &lt;span style=&#34;color:#a40000&#34;&gt;專案目錄對應遠端路徑&lt;/span&gt;
+    &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;remote_path&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#34;/home/kejyun/project/folder&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+    &lt;span style=&#34;color:#a40000&#34;&gt;//&lt;/span&gt;&lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;file_permissions&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#34;664&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+    &lt;span style=&#34;color:#a40000&#34;&gt;//&lt;/span&gt;&lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;dir_permissions&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#34;775&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+
+    &lt;span style=&#34;color:#a40000&#34;&gt;//&lt;/span&gt;&lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;extra_list_connections&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#0000cf;font-weight:bold&#34;&gt;0&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+
+    &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;connect_timeout&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#0000cf;font-weight:bold&#34;&gt;30&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+    &lt;span style=&#34;color:#a40000&#34;&gt;//&lt;/span&gt;&lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;keepalive&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#0000cf;font-weight:bold&#34;&gt;120&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+    &lt;span style=&#34;color:#a40000&#34;&gt;//&lt;/span&gt;&lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;ftp_passive_mode&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;true&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+    &lt;span style=&#34;color:#a40000&#34;&gt;//&lt;/span&gt;&lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;ftp_obey_passive_host&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;false&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+    &lt;span style=&#34;color:#a40000&#34;&gt;//&lt;/span&gt; &lt;span style=&#34;color:#a40000&#34;&gt;SSH&lt;/span&gt; &lt;span style=&#34;color:#a40000&#34;&gt;金鑰&lt;/span&gt;
+    &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;ssh_key_file&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#34;~/.ssh/id_rsa&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+    &lt;span style=&#34;color:#a40000&#34;&gt;//&lt;/span&gt;&lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;sftp_flags&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;[&lt;/span&gt;&lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#34;-F&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#34;/path/to/ssh_config&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;],&lt;/span&gt;
+
+    &lt;span style=&#34;color:#a40000&#34;&gt;//&lt;/span&gt;&lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;preserve_modification_times&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;false&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+    &lt;span style=&#34;color:#a40000&#34;&gt;//&lt;/span&gt;&lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;remote_time_offset_in_hours&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#0000cf;font-weight:bold&#34;&gt;0&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+    &lt;span style=&#34;color:#a40000&#34;&gt;//&lt;/span&gt;&lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;remote_encoding&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#34;utf-8&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+    &lt;span style=&#34;color:#a40000&#34;&gt;//&lt;/span&gt;&lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;remote_locale&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#34;C&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+    &lt;span style=&#34;color:#a40000&#34;&gt;//&lt;/span&gt;&lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;allow_config_upload&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;false&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;}&lt;/span&gt;
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://packagecontrol.io/packages/Simple%20FTP%20Deploy&#34;&gt;Simple FTP Deploy - Packages - Package Control&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 編輯器</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/code-editor/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/code-editor/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;編輯器軟體&#34;&gt;編輯器軟體&lt;/h1&gt;
+&lt;h2 id=&#34;桌機&#34;&gt;桌機&lt;/h2&gt;
+&lt;h3 id=&#34;免費&#34;&gt;免費&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sublimetext.com/3&#34;&gt;Sublime Text 3&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jdc0589/CaseConversion&#34;&gt;大小寫文字樣式轉換&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://atom.io/&#34;&gt;Atom&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://netbeans.org/&#34;&gt;NetBeans&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://eclipse.org/downloads/&#34;&gt;Eclipse&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://notepad-plus-plus.org/&#34;&gt;Notepad ++&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;付費&#34;&gt;付費&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jetbrains.com/phpstorm/&#34;&gt;PHP IDE :: JetBrains PhpStorm&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;線上&#34;&gt;線上&lt;/h2&gt;
+&lt;h3 id=&#34;前端&#34;&gt;前端&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://jsbin.com/&#34;&gt;JS Bin - Collaborative JavaScript Debugging&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://codepen.io/&#34;&gt;CodePen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://jsfiddle.net/&#34;&gt;jsFiddle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://tinkerbin.heroku.com/&#34;&gt;Tinkerbin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://pastebin.com/&#34;&gt;Pastebin&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;資料庫&#34;&gt;資料庫&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://sqlfiddle.com/&#34;&gt;SQL Fiddle&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;後端&#34;&gt;後端&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://codepad.viper-7.com/&#34;&gt;codepad - PHP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://phpfiddle.org/&#34;&gt;PHP Fiddle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://rubyfiddle.com/&#34;&gt;RUBY Fiddle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://repl.it/&#34;&gt;repl.it - Online REPL, Compiler &amp;amp; IDE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.dooccn.com/&#34;&gt;代码在线编辑,代码在线运行,在线写代码工具&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;文件&#34;&gt;文件&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://hackpad.com/&#34;&gt;Hackpad&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;虛擬主機&#34;&gt;虛擬主機&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://koding.com/Home&#34;&gt;Koding | Say goodbye to your localhost and code in the cloud.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 轉換 JSON / YAML / TOML</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/transform/json-yaml-toml/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/transform/json-yaml-toml/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;轉換工具&#34;&gt;轉換工具&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://toolkit.site/format.html&#34;&gt;Data Format Converter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@WeZZard/json-%E5%B0%B1%E5%A4%A0%E4%BA%86-%E7%88%B2%E4%BB%80%E9%BA%BC%E9%82%84%E8%A6%81-toml-%E5%92%8C-yaml-9f0a288dcdbf&#34;&gt;JSON 就夠了，爲什麼還要 TOML 和 YAML？. 最近研究 Rust 和 CI，被迫瞭解了 TOML 和… | by WeZZard | Medium&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
     
     <item>
       <title>Docs: 軟體</title>
@@ -33,6 +245,489 @@
 &lt;li&gt;&lt;a href=&#34;https://confluence.atlassian.com/bitbucket/set-up-an-ssh-key-728138079.html&#34;&gt;Set up an SSH key - Atlassian Documentation&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 文件</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/document/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/document/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;api-文件&#34;&gt;API 文件&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://swagger.io/&#34;&gt;API Documentation &amp;amp; Design Tools for Teams | Swagger&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;共同作業&#34;&gt;共同作業&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://hackpad.com/&#34;&gt;Hackpad&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://drive.google.com/&#34;&gt;Google Drive&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;心智圖&#34;&gt;心智圖&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.xmind.net/&#34;&gt;xmind&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;流程圖&#34;&gt;流程圖&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.draw.io/&#34;&gt;Draw.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;文書&#34;&gt;文書&lt;/h2&gt;
+&lt;h3 id=&#34;markdown&#34;&gt;Markdown&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ulyssesapp.com/&#34;&gt;Ulysses&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;文件&#34;&gt;文件&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://kapeli.com/dash&#34;&gt;Dash&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Brackets</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/code-editor/brackets/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/code-editor/brackets/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;使用-sftp-即時上傳檔案&#34;&gt;使用 SFTP 即時上傳檔案&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;1. 安裝 SFtpUpload 套件&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/brackets-extension-manager.png&#34; alt=&#34;Brackets Extension Manager&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/brackets-extension-manager-SFtpUpload.png&#34; alt=&#34;Brackets Extension Manager SFtpUpload&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. 開啟 SFtpUpload 設定 Pannel&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;點選編輯器右方的向上按鈕，可以開啟 SFTP Pannel，點選 &lt;code&gt;Server Setup&lt;/code&gt; 設定連線主機&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/brackets-extension-manager-SFtpUpload-pannel.png&#34; alt=&#34;SFtpUpload Pannel&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. 設定 SFtpUpload 連線主機&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;勾選 &lt;code&gt;Upload On Save&lt;/code&gt; 可以在儲存檔案後立即上傳檔案&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/brackets-extension-manager-SFtpUpload-pannel-setting.png&#34; alt=&#34;SFtpUpload Pannel SFTP Setting&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://brackets.io/&#34;&gt;Brackets - A modern, open source code editor that understands web design.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/bigeyex/brackets-sftp-upload&#34;&gt;bigeyex/brackets-sftp-upload: SFTP upload plugin for brackets&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 專案管理</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/project-management/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/project-management/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;一般專案管理&#34;&gt;一般專案管理&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://trello.com/&#34;&gt;Trello&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://asana.com/&#34;&gt;Asana&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://miro.com/&#34;&gt;Miro | Free Online Collaborative Whiteboard Platform&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.redmine.org/&#34;&gt;Redmine&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;看板資料管理&#34;&gt;看板資料管理&lt;/h2&gt;
+&lt;h2 id=&#34;敏捷開發&#34;&gt;敏捷開發&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.thoughtworks.com/mingle/&#34;&gt;Project Management Software | Mingle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.atlassian.com/software/jira&#34;&gt;JIRA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.targetprocess.com/&#34;&gt;Targetprocess&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;版本控制&#34;&gt;版本控制&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.git-tower.com/&#34;&gt;Tower&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sourcetreeapp.com/&#34;&gt;Source Tree&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bitbucket.org/product/server&#34;&gt;Bitbucket&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Mockup</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/mockup/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/mockup/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;mockup-軟體&#34;&gt;Mockup 軟體&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.figma.com/&#34;&gt;Figma: the collaborative interface design tool.&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.figma.com/community&#34;&gt;Community – Figma&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.figmacrush.com/&#34;&gt;Figma Templates, UI kits and Freebies - Free Figma resources&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://figmacn.com/resource/figma-crush&#34;&gt;免费的 Figma 资源、模板 | Figma 中文网（非官方）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=3q3FV65ZrUs&#34;&gt;Figma Tutorial - A Free UI Design/Prototyping Tool. It&amp;rsquo;s awesome. - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/channel/UCQsVmhSa4X-G3lHlUtejzLA/videos&#34;&gt;Figma - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cacoo.com/&#34;&gt;Online Diagram and Flowchart Software | Cacoo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://moqups.com/&#34;&gt;Moqups&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sketch.com/&#34;&gt;Sketch - The digital design toolkit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.invisionapp.com/&#34;&gt;InVision | Digital product design, workflow &amp;amp; collaboration&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zeplin.io/&#34;&gt;Zeplin—Collaboration and handoff for product teams | Zeplin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.flinto.com/&#34;&gt;Flinto – The App Design App&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://balsamiq.com/&#34;&gt;Balsamiq Mockups&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://marvelapp.com/&#34;&gt;Marvel - The design platform for digital products. Get started for free.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: phpstorm</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/code-editor/phpstorm/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/code-editor/phpstorm/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;sftp-檔案自動同步&#34;&gt;SFTP 檔案自動同步&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;1. 部署方式&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;選單 &amp;gt; &lt;code&gt;Tools&lt;/code&gt; &amp;gt; &lt;code&gt;Deployment&lt;/code&gt; &amp;gt; &lt;code&gt;Configuration&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;../images/phpstorm-tools-deployment-configuration.png&#34; alt=&#34;部署方式&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. 設定部署連線方式&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在 &lt;code&gt;Connection&lt;/code&gt; 的頁籤選擇使用 &lt;code&gt;SFTP&lt;/code&gt; 去連線&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;選項&lt;/th&gt;
+&lt;th&gt;說明&lt;/th&gt;
+&lt;th&gt;範例&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;SFTP host&lt;/td&gt;
+&lt;td&gt;主機網址&lt;/td&gt;
+&lt;td&gt;server.kejyun.com&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Port&lt;/td&gt;
+&lt;td&gt;連接阜&lt;/td&gt;
+&lt;td&gt;22&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Root path&lt;/td&gt;
+&lt;td&gt;根目錄&lt;/td&gt;
+&lt;td&gt;/home/kejyun/blog&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;User name&lt;/td&gt;
+&lt;td&gt;帳號&lt;/td&gt;
+&lt;td&gt;kejyun&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Auth type&lt;/td&gt;
+&lt;td&gt;驗證方式&lt;/td&gt;
+&lt;td&gt;Key pair&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Private key file&lt;/td&gt;
+&lt;td&gt;私密金鑰&lt;/td&gt;
+&lt;td&gt;/Users/kejyun/.ssh/id_rsa&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;img src=&#34;../images/phpstorm-tools-deployment-configuration-connection.png&#34; alt=&#34;設定部署連線方式&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. 設定部署資料夾對應方式&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;選項&lt;/th&gt;
+&lt;th&gt;說明&lt;/th&gt;
+&lt;th&gt;範例&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Local path&lt;/td&gt;
+&lt;td&gt;本地端路徑&lt;/td&gt;
+&lt;td&gt;/Users/kejyun/Code/Blog&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Deployment path on server&lt;/td&gt;
+&lt;td&gt;部署路徑&lt;/td&gt;
+&lt;td&gt;/&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;blockquote&gt;
+&lt;p&gt;關於 &lt;code&gt;Deployment path on server&lt;/code&gt;，這裡的路徑指的是相對於 &lt;code&gt;Root path&lt;/code&gt; 的路徑，若 &lt;code&gt;Root path&lt;/code&gt; 為 &lt;code&gt;/home/kejyun/blog&lt;/code&gt; 而 &lt;code&gt;Deployment path on server&lt;/code&gt; 為 &lt;code&gt;web&lt;/code&gt;，則在本地端專案的 &lt;code&gt;test.txt&lt;/code&gt; 檔案就會被上傳到遠端的 &lt;code&gt;/home/kejyun/blog/web&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;設定完成後點選 &lt;code&gt;Use this server as default&lt;/code&gt; 就可以設定此專案使用這個連線設定&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/phpstorm-tools-deployment-configuration-mappings.png&#34; alt=&#34;設定部署資料夾對應方式&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4. 部署選項&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;選單 &amp;gt; &lt;code&gt;Tools&lt;/code&gt; &amp;gt; &lt;code&gt;Deployment&lt;/code&gt; &amp;gt; &lt;code&gt;Options&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;../images/phpstorm-tools-deployment-options.png&#34; alt=&#34;部署選項&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;5. 設定部署選項&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;選擇 &lt;code&gt;On explicit save action&lt;/code&gt; 設定儲存檔案時自動上傳&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/phpstorm-tools-deployment-options-setting.png&#34; alt=&#34;設定部署選項&#34;&gt;&lt;/p&gt;
+&lt;p&gt;設定完成後，就可以在專案中，儲存檔案時自動將檔案上傳到遠端伺服器了！&lt;/p&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://confluence.jetbrains.com/display/PhpStorm/Sync+changes+and+automatic+upload+to+a+deployment+server+in+PhpStorm&#34;&gt;Sync changes and automatic upload to a deployment server in PhpStorm - PhpStorm - Confluence&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jetbrains.com/help/phpstorm/2016.2/options.html&#34;&gt;PhpStorm 2016.2 Help :: Options&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://plugins.jetbrains.com/plugin/7374-source-synchronizer&#34;&gt;Source Synchronizer - Plugins | JetBrains&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: vscode</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/code-editor/vscode/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/code-editor/vscode/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;sftp-套件&#34;&gt;SFTP 套件&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;設定檔案&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;.vscode/sftp.json&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-json&#34; data-lang=&#34;json&#34;&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;{&lt;/span&gt;
+    &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;name&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#34;My Server&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+    &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;host&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#34;kjhost&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+    &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;protocol&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#34;sftp&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+    &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;port&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#0000cf;font-weight:bold&#34;&gt;22&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+    &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;username&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#34;kj&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+    &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;remotePath&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#34;/home/kj/&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+    &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;privateKeyPath&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#34;/Users/kejyun/.ssh/id_rsa&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+    &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;watcher&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;{&lt;/span&gt;
+        &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;files&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#34;**/*{bundle.css,bundle.css.map,bundle.js,bundle.js.map}&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+        &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;autoUpload&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;true&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+        &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;uploadOnSave&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;true&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+        &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;autoDelete&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;false&lt;/span&gt;
+    &lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;},&lt;/span&gt;
+    &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;uploadOnSave&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;true&lt;/span&gt;
+&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://marketplace.visualstudio.com/items?itemName=liximomo.sftp&#34;&gt;SFTP - Visual Studio Marketplace&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/liximomo/vscode-sftp&#34;&gt;GitHub - liximomo/vscode-sftp: Super fast sftp/ftp extension for VS Code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.toright.com/posts/6456/vscode-sftp-ssh-code-sync.html&#34;&gt;透過 VSCode SFTP/SSH 自動同步 Server 程式碼 - Soul &amp;amp; Shell Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/liximomo/vscode-sftp/issues/78&#34;&gt;How does watcher works? · Issue #78 · liximomo/vscode-sftp · GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 伺服器</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/server-sevice/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/server-sevice/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;綜合&#34;&gt;綜合&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.apachefriends.org/zh_tw/index.html&#34;&gt;XAMPP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mamp.info/en/&#34;&gt;MAMP&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;apache&#34;&gt;Apache&lt;/h2&gt;
+&lt;h3 id=&#34;文件&#34;&gt;文件&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://overapi.com/mod_rewrite/&#34;&gt;mod_rewrite Cheat Sheet | OverAPI.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;mysql&#34;&gt;MySQL&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sequelpro.com/&#34;&gt;Sequel Pro&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;虛擬主機&#34;&gt;虛擬主機&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.vagrantup.com/&#34;&gt;Vagrant&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 繪圖</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/painting/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/painting/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;繪圖&#34;&gt;繪圖&lt;/h2&gt;
+&lt;h3 id=&#34;免費&#34;&gt;免費&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://krita.org/&#34;&gt;Krita | Digital Painting. Creative Freedom.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://mybrushes-app.com/drawing-tool/MyBrushes-TR.html&#34;&gt;MyBrushes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;試用&#34;&gt;試用&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://affinity.serif.com/en-gb/photo/&#34;&gt;Affinity Photo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;線上&#34;&gt;線上&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://pixlr.com/&#34;&gt;Pixlr&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;截圖&#34;&gt;截圖&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://itunes.apple.com/us/app/annotate-capture-screenshot/id918207447?mt=12&#34;&gt;Annotate&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;圖片處理&#34;&gt;圖片處理&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://itunes.apple.com/us/app/photobulk-watermark-resize/id537211143?mt=12&#34;&gt;Photobulk - 批次修改圖片大小&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://imageoptim.com/&#34;&gt;Image Optim - 圖片壓縮&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;管理&#34;&gt;管理&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://realmacsoftware.com/ember/&#34;&gt;Ember - 設計搜集&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.invisionapp.com/&#34;&gt;Invision  - 設計溝通&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 網路</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/network/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/network/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;傳輸&#34;&gt;傳輸&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://panic.com/transmit/&#34;&gt;Transmit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.scootersoftware.com/&#34;&gt;Beyond Compare&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 管理</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/management/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/management/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://iterm2.com/&#34;&gt;iTerm2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.publicspace.net/ABetterFinderRename/&#34;&gt;A Better Finder Rename - 批次更換檔名&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 條碼</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/barcode-qrcode/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/barcode-qrcode/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;產生器&#34;&gt;產生器&lt;/h2&gt;
+&lt;h3 id=&#34;qr-code&#34;&gt;QR Code&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.qr-code-generator.com/&#34;&gt;QR Code Generator - Create QR codes here&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.the-qrcode-generator.com/&#34;&gt;QR Code Generator&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 開發除錯</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/dev-debug/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/dev-debug/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;chrome&#34;&gt;Chrome&lt;/h2&gt;
+&lt;h3 id=&#34;佈景主題&#34;&gt;佈景主題&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/mauricecruz/chrome-devtools-zerodarkmatrix-theme&#34;&gt;ZeroDarkMatrix Theme for Chrome&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Log</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/log/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/log/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.elastic.co/what-is/elk-stack&#34;&gt;ELK Stack: Elasticsearch, Logstash, Kibana | Elastic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sentry.io/&#34;&gt;Application Monitoring and Error Tracking Software | Sentry&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 監控 Monitor</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/monitor/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/monitor/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://grafana.com/&#34;&gt;Grafana: The open observability platform | Grafana Labs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://prometheus.io/&#34;&gt;Prometheus - Monitoring system &amp;amp; time series database&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 軟體工具</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 轉換</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/transform/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/transform/</guid>
+      <description>
+        
+        
+        
       </description>
     </item>
     

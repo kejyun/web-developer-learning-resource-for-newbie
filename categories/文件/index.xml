@@ -1,0 +1,58 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Developer Learning Resource for newbie 網頁開發學習資源 – 文件</title>
+    <link>https://web-developer-learning-resource-for-newbie.kejyun.com/categories/%E6%96%87%E4%BB%B6/</link>
+    <description>Recent content in 文件 on Web Developer Learning Resource for newbie 網頁開發學習資源</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sun, 18 Apr 2021 08:50:29 +0800</lastBuildDate>
+    
+	  <atom:link href="https://web-developer-learning-resource-for-newbie.kejyun.com/categories/%E6%96%87%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: 文件</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/document/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/document/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;api-文件&#34;&gt;API 文件&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://swagger.io/&#34;&gt;API Documentation &amp;amp; Design Tools for Teams | Swagger&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;共同作業&#34;&gt;共同作業&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://hackpad.com/&#34;&gt;Hackpad&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://drive.google.com/&#34;&gt;Google Drive&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;心智圖&#34;&gt;心智圖&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.xmind.net/&#34;&gt;xmind&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;流程圖&#34;&gt;流程圖&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.draw.io/&#34;&gt;Draw.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;文書&#34;&gt;文書&lt;/h2&gt;
+&lt;h3 id=&#34;markdown&#34;&gt;Markdown&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ulyssesapp.com/&#34;&gt;Ulysses&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;文件&#34;&gt;文件&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://kapeli.com/dash&#34;&gt;Dash&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,47 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Developer Learning Resource for newbie 網頁開發學習資源 – Brackets</title>
+    <link>https://web-developer-learning-resource-for-newbie.kejyun.com/categories/brackets/</link>
+    <description>Recent content in Brackets on Web Developer Learning Resource for newbie 網頁開發學習資源</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sun, 18 Apr 2021 08:50:29 +0800</lastBuildDate>
+    
+	  <atom:link href="https://web-developer-learning-resource-for-newbie.kejyun.com/categories/brackets/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Brackets</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/code-editor/brackets/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/code-editor/brackets/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;使用-sftp-即時上傳檔案&#34;&gt;使用 SFTP 即時上傳檔案&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;1. 安裝 SFtpUpload 套件&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/brackets-extension-manager.png&#34; alt=&#34;Brackets Extension Manager&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/brackets-extension-manager-SFtpUpload.png&#34; alt=&#34;Brackets Extension Manager SFtpUpload&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. 開啟 SFtpUpload 設定 Pannel&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;點選編輯器右方的向上按鈕，可以開啟 SFTP Pannel，點選 &lt;code&gt;Server Setup&lt;/code&gt; 設定連線主機&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/brackets-extension-manager-SFtpUpload-pannel.png&#34; alt=&#34;SFtpUpload Pannel&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. 設定 SFtpUpload 連線主機&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;勾選 &lt;code&gt;Upload On Save&lt;/code&gt; 可以在儲存檔案後立即上傳檔案&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/brackets-extension-manager-SFtpUpload-pannel-setting.png&#34; alt=&#34;SFtpUpload Pannel SFTP Setting&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://brackets.io/&#34;&gt;Brackets - A modern, open source code editor that understands web design.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/bigeyex/brackets-sftp-upload&#34;&gt;bigeyex/brackets-sftp-upload: SFTP upload plugin for brackets&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

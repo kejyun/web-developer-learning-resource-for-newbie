@@ -1,0 +1,35 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Developer Learning Resource for newbie 網頁開發學習資源 – 特殊字元</title>
+    <link>https://web-developer-learning-resource-for-newbie.kejyun.com/categories/%E7%89%B9%E6%AE%8A%E5%AD%97%E5%85%83/</link>
+    <description>Recent content in 特殊字元 on Web Developer Learning Resource for newbie 網頁開發學習資源</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sun, 18 Apr 2021 08:50:29 +0800</lastBuildDate>
+    
+	  <atom:link href="https://web-developer-learning-resource-for-newbie.kejyun.com/categories/%E7%89%B9%E6%AE%8A%E5%AD%97%E5%85%83/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: 特殊字元</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/font/special-character/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/font/special-character/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://htmlarrows.com/&#34;&gt;HTML Symbol Codes and Entities&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

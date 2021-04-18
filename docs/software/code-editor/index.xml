@@ -1,0 +1,258 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Developer Learning Resource for newbie 網頁開發學習資源 – 編輯器</title>
+    <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/code-editor/</link>
+    <description>Recent content in 編輯器 on Web Developer Learning Resource for newbie 網頁開發學習資源</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sun, 18 Apr 2021 08:50:29 +0800</lastBuildDate>
+    
+	  <atom:link href="https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/code-editor/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Sublime</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/code-editor/sublime/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/code-editor/sublime/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;使用-sftp-即時上傳檔案&#34;&gt;使用 SFTP 即時上傳檔案&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;安裝套件&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;使用 Sublime Packages Controller 安裝 &lt;code&gt;Simple FTP Deploy&lt;/code&gt; 套件&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;設定 sftp-config.json&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在專案目錄下建立 &lt;code&gt;sftp-config.json&lt;/code&gt; 檔案，並將此設定值填入到檔案中，並加入自己主機的相關設定&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-json&#34; data-lang=&#34;json&#34;&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;{&lt;/span&gt;
+    &lt;span style=&#34;color:#a40000&#34;&gt;//&lt;/span&gt; &lt;span style=&#34;color:#a40000&#34;&gt;The&lt;/span&gt; &lt;span style=&#34;color:#a40000&#34;&gt;tab&lt;/span&gt; &lt;span style=&#34;color:#a40000&#34;&gt;key&lt;/span&gt; &lt;span style=&#34;color:#a40000&#34;&gt;will&lt;/span&gt; &lt;span style=&#34;color:#a40000&#34;&gt;cycle&lt;/span&gt; &lt;span style=&#34;color:#a40000&#34;&gt;through&lt;/span&gt; &lt;span style=&#34;color:#a40000&#34;&gt;the&lt;/span&gt; &lt;span style=&#34;color:#a40000&#34;&gt;settings&lt;/span&gt; &lt;span style=&#34;color:#a40000&#34;&gt;when&lt;/span&gt; &lt;span style=&#34;color:#a40000&#34;&gt;first&lt;/span&gt; &lt;span style=&#34;color:#a40000&#34;&gt;created&lt;/span&gt;
+    &lt;span style=&#34;color:#a40000&#34;&gt;//&lt;/span&gt; &lt;span style=&#34;color:#a40000&#34;&gt;Visit&lt;/span&gt; &lt;span style=&#34;color:#a40000&#34;&gt;http://wbond.net/sublime_packages/sftp/settings&lt;/span&gt; &lt;span style=&#34;color:#a40000&#34;&gt;for&lt;/span&gt; &lt;span style=&#34;color:#a40000&#34;&gt;help&lt;/span&gt;
+
+    &lt;span style=&#34;color:#a40000&#34;&gt;//&lt;/span&gt; &lt;span style=&#34;color:#a40000&#34;&gt;sftp,&lt;/span&gt; &lt;span style=&#34;color:#a40000&#34;&gt;ftp&lt;/span&gt; &lt;span style=&#34;color:#a40000&#34;&gt;or&lt;/span&gt; &lt;span style=&#34;color:#a40000&#34;&gt;ftps&lt;/span&gt;
+    &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;type&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#34;sftp&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+
+    &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;sync_down_on_open&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;true&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+    &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;sync_same_age&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;true&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+
+    &lt;span style=&#34;color:#a40000&#34;&gt;//&lt;/span&gt; &lt;span style=&#34;color:#a40000&#34;&gt;主機網址&lt;/span&gt;
+    &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;host&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#34;server.kejyun.com&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+    &lt;span style=&#34;color:#a40000&#34;&gt;//&lt;/span&gt; &lt;span style=&#34;color:#a40000&#34;&gt;帳號&lt;/span&gt;
+    &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;user&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#34;username&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+    &lt;span style=&#34;color:#a40000&#34;&gt;//&lt;/span&gt; &lt;span style=&#34;color:#a40000&#34;&gt;密碼&lt;/span&gt;
+    &lt;span style=&#34;color:#a40000&#34;&gt;//&lt;/span&gt; &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;password&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#34;password&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+    &lt;span style=&#34;color:#a40000&#34;&gt;//&lt;/span&gt; &lt;span style=&#34;color:#a40000&#34;&gt;Port&lt;/span&gt;
+    &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;port&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#34;22222&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+    &lt;span style=&#34;color:#a40000&#34;&gt;//&lt;/span&gt; &lt;span style=&#34;color:#a40000&#34;&gt;是否在儲存檔案時立即上傳檔案&lt;/span&gt;
+    &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;upload_on_save&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;true&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+
+    &lt;span style=&#34;color:#a40000&#34;&gt;//&lt;/span&gt; &lt;span style=&#34;color:#a40000&#34;&gt;專案目錄對應遠端路徑&lt;/span&gt;
+    &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;remote_path&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#34;/home/kejyun/project/folder&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+    &lt;span style=&#34;color:#a40000&#34;&gt;//&lt;/span&gt;&lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;file_permissions&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#34;664&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+    &lt;span style=&#34;color:#a40000&#34;&gt;//&lt;/span&gt;&lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;dir_permissions&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#34;775&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+
+    &lt;span style=&#34;color:#a40000&#34;&gt;//&lt;/span&gt;&lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;extra_list_connections&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#0000cf;font-weight:bold&#34;&gt;0&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+
+    &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;connect_timeout&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#0000cf;font-weight:bold&#34;&gt;30&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+    &lt;span style=&#34;color:#a40000&#34;&gt;//&lt;/span&gt;&lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;keepalive&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#0000cf;font-weight:bold&#34;&gt;120&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+    &lt;span style=&#34;color:#a40000&#34;&gt;//&lt;/span&gt;&lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;ftp_passive_mode&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;true&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+    &lt;span style=&#34;color:#a40000&#34;&gt;//&lt;/span&gt;&lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;ftp_obey_passive_host&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;false&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+    &lt;span style=&#34;color:#a40000&#34;&gt;//&lt;/span&gt; &lt;span style=&#34;color:#a40000&#34;&gt;SSH&lt;/span&gt; &lt;span style=&#34;color:#a40000&#34;&gt;金鑰&lt;/span&gt;
+    &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;ssh_key_file&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#34;~/.ssh/id_rsa&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+    &lt;span style=&#34;color:#a40000&#34;&gt;//&lt;/span&gt;&lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;sftp_flags&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;[&lt;/span&gt;&lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#34;-F&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#34;/path/to/ssh_config&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;],&lt;/span&gt;
+
+    &lt;span style=&#34;color:#a40000&#34;&gt;//&lt;/span&gt;&lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;preserve_modification_times&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;false&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+    &lt;span style=&#34;color:#a40000&#34;&gt;//&lt;/span&gt;&lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;remote_time_offset_in_hours&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#0000cf;font-weight:bold&#34;&gt;0&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+    &lt;span style=&#34;color:#a40000&#34;&gt;//&lt;/span&gt;&lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;remote_encoding&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#34;utf-8&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+    &lt;span style=&#34;color:#a40000&#34;&gt;//&lt;/span&gt;&lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;remote_locale&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#34;C&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+    &lt;span style=&#34;color:#a40000&#34;&gt;//&lt;/span&gt;&lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;allow_config_upload&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;false&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;}&lt;/span&gt;
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://packagecontrol.io/packages/Simple%20FTP%20Deploy&#34;&gt;Simple FTP Deploy - Packages - Package Control&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Brackets</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/code-editor/brackets/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/code-editor/brackets/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;使用-sftp-即時上傳檔案&#34;&gt;使用 SFTP 即時上傳檔案&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;1. 安裝 SFtpUpload 套件&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/brackets-extension-manager.png&#34; alt=&#34;Brackets Extension Manager&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/brackets-extension-manager-SFtpUpload.png&#34; alt=&#34;Brackets Extension Manager SFtpUpload&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. 開啟 SFtpUpload 設定 Pannel&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;點選編輯器右方的向上按鈕，可以開啟 SFTP Pannel，點選 &lt;code&gt;Server Setup&lt;/code&gt; 設定連線主機&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/brackets-extension-manager-SFtpUpload-pannel.png&#34; alt=&#34;SFtpUpload Pannel&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. 設定 SFtpUpload 連線主機&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;勾選 &lt;code&gt;Upload On Save&lt;/code&gt; 可以在儲存檔案後立即上傳檔案&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/brackets-extension-manager-SFtpUpload-pannel-setting.png&#34; alt=&#34;SFtpUpload Pannel SFTP Setting&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://brackets.io/&#34;&gt;Brackets - A modern, open source code editor that understands web design.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/bigeyex/brackets-sftp-upload&#34;&gt;bigeyex/brackets-sftp-upload: SFTP upload plugin for brackets&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: phpstorm</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/code-editor/phpstorm/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/code-editor/phpstorm/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;sftp-檔案自動同步&#34;&gt;SFTP 檔案自動同步&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;1. 部署方式&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;選單 &amp;gt; &lt;code&gt;Tools&lt;/code&gt; &amp;gt; &lt;code&gt;Deployment&lt;/code&gt; &amp;gt; &lt;code&gt;Configuration&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;../images/phpstorm-tools-deployment-configuration.png&#34; alt=&#34;部署方式&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. 設定部署連線方式&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在 &lt;code&gt;Connection&lt;/code&gt; 的頁籤選擇使用 &lt;code&gt;SFTP&lt;/code&gt; 去連線&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;選項&lt;/th&gt;
+&lt;th&gt;說明&lt;/th&gt;
+&lt;th&gt;範例&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;SFTP host&lt;/td&gt;
+&lt;td&gt;主機網址&lt;/td&gt;
+&lt;td&gt;server.kejyun.com&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Port&lt;/td&gt;
+&lt;td&gt;連接阜&lt;/td&gt;
+&lt;td&gt;22&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Root path&lt;/td&gt;
+&lt;td&gt;根目錄&lt;/td&gt;
+&lt;td&gt;/home/kejyun/blog&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;User name&lt;/td&gt;
+&lt;td&gt;帳號&lt;/td&gt;
+&lt;td&gt;kejyun&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Auth type&lt;/td&gt;
+&lt;td&gt;驗證方式&lt;/td&gt;
+&lt;td&gt;Key pair&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Private key file&lt;/td&gt;
+&lt;td&gt;私密金鑰&lt;/td&gt;
+&lt;td&gt;/Users/kejyun/.ssh/id_rsa&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;img src=&#34;../images/phpstorm-tools-deployment-configuration-connection.png&#34; alt=&#34;設定部署連線方式&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. 設定部署資料夾對應方式&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;選項&lt;/th&gt;
+&lt;th&gt;說明&lt;/th&gt;
+&lt;th&gt;範例&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Local path&lt;/td&gt;
+&lt;td&gt;本地端路徑&lt;/td&gt;
+&lt;td&gt;/Users/kejyun/Code/Blog&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Deployment path on server&lt;/td&gt;
+&lt;td&gt;部署路徑&lt;/td&gt;
+&lt;td&gt;/&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;blockquote&gt;
+&lt;p&gt;關於 &lt;code&gt;Deployment path on server&lt;/code&gt;，這裡的路徑指的是相對於 &lt;code&gt;Root path&lt;/code&gt; 的路徑，若 &lt;code&gt;Root path&lt;/code&gt; 為 &lt;code&gt;/home/kejyun/blog&lt;/code&gt; 而 &lt;code&gt;Deployment path on server&lt;/code&gt; 為 &lt;code&gt;web&lt;/code&gt;，則在本地端專案的 &lt;code&gt;test.txt&lt;/code&gt; 檔案就會被上傳到遠端的 &lt;code&gt;/home/kejyun/blog/web&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;設定完成後點選 &lt;code&gt;Use this server as default&lt;/code&gt; 就可以設定此專案使用這個連線設定&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/phpstorm-tools-deployment-configuration-mappings.png&#34; alt=&#34;設定部署資料夾對應方式&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4. 部署選項&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;選單 &amp;gt; &lt;code&gt;Tools&lt;/code&gt; &amp;gt; &lt;code&gt;Deployment&lt;/code&gt; &amp;gt; &lt;code&gt;Options&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;../images/phpstorm-tools-deployment-options.png&#34; alt=&#34;部署選項&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;5. 設定部署選項&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;選擇 &lt;code&gt;On explicit save action&lt;/code&gt; 設定儲存檔案時自動上傳&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../images/phpstorm-tools-deployment-options-setting.png&#34; alt=&#34;設定部署選項&#34;&gt;&lt;/p&gt;
+&lt;p&gt;設定完成後，就可以在專案中，儲存檔案時自動將檔案上傳到遠端伺服器了！&lt;/p&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://confluence.jetbrains.com/display/PhpStorm/Sync+changes+and+automatic+upload+to+a+deployment+server+in+PhpStorm&#34;&gt;Sync changes and automatic upload to a deployment server in PhpStorm - PhpStorm - Confluence&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jetbrains.com/help/phpstorm/2016.2/options.html&#34;&gt;PhpStorm 2016.2 Help :: Options&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://plugins.jetbrains.com/plugin/7374-source-synchronizer&#34;&gt;Source Synchronizer - Plugins | JetBrains&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: vscode</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/code-editor/vscode/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/code-editor/vscode/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;sftp-套件&#34;&gt;SFTP 套件&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;設定檔案&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;.vscode/sftp.json&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-json&#34; data-lang=&#34;json&#34;&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;{&lt;/span&gt;
+    &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;name&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#34;My Server&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+    &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;host&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#34;kjhost&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+    &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;protocol&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#34;sftp&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+    &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;port&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#0000cf;font-weight:bold&#34;&gt;22&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+    &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;username&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#34;kj&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+    &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;remotePath&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#34;/home/kj/&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+    &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;privateKeyPath&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#34;/Users/kejyun/.ssh/id_rsa&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+    &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;watcher&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;{&lt;/span&gt;
+        &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;files&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#34;**/*{bundle.css,bundle.css.map,bundle.js,bundle.js.map}&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+        &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;autoUpload&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;true&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+        &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;uploadOnSave&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;true&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
+        &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;autoDelete&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;false&lt;/span&gt;
+    &lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;},&lt;/span&gt;
+    &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;uploadOnSave&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;true&lt;/span&gt;
+&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://marketplace.visualstudio.com/items?itemName=liximomo.sftp&#34;&gt;SFTP - Visual Studio Marketplace&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/liximomo/vscode-sftp&#34;&gt;GitHub - liximomo/vscode-sftp: Super fast sftp/ftp extension for VS Code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.toright.com/posts/6456/vscode-sftp-ssh-code-sync.html&#34;&gt;透過 VSCode SFTP/SSH 自動同步 Server 程式碼 - Soul &amp;amp; Shell Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/liximomo/vscode-sftp/issues/78&#34;&gt;How does watcher works? · Issue #78 · liximomo/vscode-sftp · GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
