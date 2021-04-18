@@ -1,0 +1,48 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Developer Learning Resource for newbie 網頁開發學習資源 – PostgreSQL</title>
+    <link>https://web-developer-learning-resource-for-newbie.kejyun.com/tags/postgresql/</link>
+    <description>Recent content in PostgreSQL on Web Developer Learning Resource for newbie 網頁開發學習資源</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sun, 18 Apr 2021 08:50:29 +0800</lastBuildDate>
+    
+	  <atom:link href="https://web-developer-learning-resource-for-newbie.kejyun.com/tags/postgresql/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: PostgreSQL</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/database/postgresql/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/database/postgresql/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;文章&#34;&gt;文章&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.postgresql.tw/&#34;&gt;簡介 - PostgreSQL 中文使用手冊&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;社群&#34;&gt;社群&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://postgresql.tw/&#34;&gt;PostgreSQL台灣使用者社群&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;軟體&#34;&gt;軟體&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://dbeaver.io/&#34;&gt;DBeaver Community | Free Universal Database Tool&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;官方&#34;&gt;官方&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.postgresql.org/&#34;&gt;PostgreSQL: The world&amp;rsquo;s most advanced open source database&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

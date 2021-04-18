@@ -1,0 +1,69 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Developer Learning Resource for newbie 網頁開發學習資源 – Node.js</title>
+    <link>https://web-developer-learning-resource-for-newbie.kejyun.com/tags/node.js/</link>
+    <description>Recent content in Node.js on Web Developer Learning Resource for newbie 網頁開發學習資源</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sun, 18 Apr 2021 08:50:29 +0800</lastBuildDate>
+    
+	  <atom:link href="https://web-developer-learning-resource-for-newbie.kejyun.com/tags/node.js/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: 學習資源</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/backend-program/node-js/learning-resource/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/backend-program/node-js/learning-resource/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;官方&#34;&gt;官方&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://nodejs.org/&#34;&gt;Node.js&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;社群&#34;&gt;社群&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/groups/node.js.tw/&#34;&gt;node.js台灣 - Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://nodejs.tw/&#34;&gt;Node.js Taiwan&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;教學網站&#34;&gt;教學網站&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://nodeschool.io/&#34;&gt;NodeSchool&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;文件&#34;&gt;文件&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://overapi.com/nodejs/&#34;&gt;NodeJS Cheat Sheet | OverAPI.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;投影片&#34;&gt;投影片&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://duncanhsieh.github.io/presentation-realtime-web-apps-2015/&#34;&gt;Web 的即時互動怎麼玩？&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Node.js</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/backend-program/node-js/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/backend-program/node-js/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://roadmap.sh/backend&#34;&gt;Learn to become a modern backend developer&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

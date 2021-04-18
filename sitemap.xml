@@ -17,7 +17,22 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/photo/icon/</loc>
+    <lastmod>2021-04-18T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/database/mysql/</loc>
+    <lastmod>2021-04-18T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/backend-program/php/</loc>
+    <lastmod>2021-04-18T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/backend-program/node-js/learning-resource/</loc>
     <lastmod>2021-04-18T08:50:29+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -62,7 +77,17 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/database/postgresql/</loc>
+    <lastmod>2021-04-18T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/backend-program/python/</loc>
+    <lastmod>2021-04-18T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/photo/free-photo/</loc>
     <lastmod>2021-04-18T08:50:29+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -97,7 +122,17 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/backend-program/api/</loc>
+    <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/database/mongodb/</loc>
+    <lastmod>2021-04-18T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/backend-program/node-js/</loc>
+    <lastmod>2021-04-18T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/database/redis/</loc>
     <lastmod>2021-04-18T08:50:29+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -108,6 +143,11 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/javascript/plugin/</loc>
+    <lastmod>2021-04-18T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/photo/cc-photo/</loc>
     <lastmod>2021-04-18T08:50:29+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -127,6 +167,11 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/photo/other-photo/</loc>
+    <lastmod>2021-04-18T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/backend-program/php/learning-resource/</loc>
     <lastmod>2021-04-18T08:50:29+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -138,11 +183,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/javascript/tool/</loc>
-    <lastmod>2021-04-18T08:50:29+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/backend-program/debug/</loc>
     <lastmod>2021-04-18T08:50:29+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -163,6 +203,31 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/css/learning-resource/</loc>
+    <lastmod>2021-04-18T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/database/</loc>
+    <lastmod>2021-04-18T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/photo/</loc>
+    <lastmod>2021-04-18T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/backend-program/api/</loc>
+    <lastmod>2021-04-18T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/backend-program/debug/</loc>
+    <lastmod>2021-04-18T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/database/learning-resource/</loc>
     <lastmod>2021-04-18T08:50:29+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -197,6 +262,16 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/tags/cc-photo/</loc>
+    <lastmod>2021-04-18T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/categories/cc-photo/</loc>
+    <lastmod>2021-04-18T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/tags/cors/</loc>
     <lastmod>2021-04-18T08:50:29+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -207,12 +282,42 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/tags/database/</loc>
+    <lastmod>2021-04-18T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/categories/database/</loc>
+    <lastmod>2021-04-18T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/tags/framework/</loc>
     <lastmod>2021-04-18T08:50:29+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/categories/framework/</loc>
+    <lastmod>2021-04-18T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/tags/free-photo/</loc>
+    <lastmod>2021-04-18T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/categories/free-photo/</loc>
+    <lastmod>2021-04-18T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/tags/icon/</loc>
+    <lastmod>2021-04-18T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/categories/icon/</loc>
     <lastmod>2021-04-18T08:50:29+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -247,12 +352,52 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/tags/mongodb/</loc>
+    <lastmod>2021-04-18T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/categories/mongodb/</loc>
+    <lastmod>2021-04-18T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/tags/mysql/</loc>
+    <lastmod>2021-04-18T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/categories/mysql/</loc>
+    <lastmod>2021-04-18T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/tags/node.js/</loc>
+    <lastmod>2021-04-18T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/categories/node.js/</loc>
+    <lastmod>2021-04-18T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/tags/package/</loc>
     <lastmod>2021-04-18T08:50:29+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/categories/package/</loc>
+    <lastmod>2021-04-18T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/tags/photo/</loc>
+    <lastmod>2021-04-18T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/categories/photo/</loc>
     <lastmod>2021-04-18T08:50:29+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -277,12 +422,32 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/tags/postgresql/</loc>
+    <lastmod>2021-04-18T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/categories/postgresql/</loc>
+    <lastmod>2021-04-18T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/tags/python/</loc>
     <lastmod>2021-04-18T08:50:29+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/categories/python/</loc>
+    <lastmod>2021-04-18T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/tags/redis/</loc>
+    <lastmod>2021-04-18T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/categories/redis/</loc>
     <lastmod>2021-04-18T08:50:29+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -322,12 +487,42 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/tags/%E5%85%8D%E8%B2%BB%E5%9C%96%E7%89%87/</loc>
+    <lastmod>2021-04-18T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/categories/%E5%85%8D%E8%B2%BB%E5%9C%96%E7%89%87/</loc>
+    <lastmod>2021-04-18T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/tags/%E5%85%B6%E4%BB%96%E5%9C%96%E7%89%87/</loc>
+    <lastmod>2021-04-18T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/categories/%E5%85%B6%E4%BB%96%E5%9C%96%E7%89%87/</loc>
+    <lastmod>2021-04-18T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/tags/%E5%87%BD%E5%BC%8F%E5%BA%AB/</loc>
     <lastmod>2021-04-18T08:50:29+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/categories/%E5%87%BD%E5%BC%8F%E5%BA%AB/</loc>
+    <lastmod>2021-04-18T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/tags/%E5%9C%96%E7%89%87/</loc>
+    <lastmod>2021-04-18T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/categories/%E5%9C%96%E7%89%87/</loc>
     <lastmod>2021-04-18T08:50:29+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -382,12 +577,32 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/tags/%E6%8E%88%E6%AC%8A%E5%9C%96%E7%89%87/</loc>
+    <lastmod>2021-04-18T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/categories/%E6%8E%88%E6%AC%8A%E5%9C%96%E7%89%87/</loc>
+    <lastmod>2021-04-18T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/tags/%E7%B6%B2%E9%A0%81%E9%96%8B%E7%99%BC%E5%AD%B8%E7%BF%92%E8%B3%87%E6%BA%90/</loc>
     <lastmod>2021-04-18T08:50:29+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/categories/%E7%B6%B2%E9%A0%81%E9%96%8B%E7%99%BC%E5%AD%B8%E7%BF%92%E8%B3%87%E6%BA%90/</loc>
+    <lastmod>2021-04-18T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/tags/%E8%B3%87%E6%96%99%E5%BA%AB/</loc>
+    <lastmod>2021-04-18T08:50:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://web-developer-learning-resource-for-newbie.kejyun.com/categories/%E8%B3%87%E6%96%99%E5%BA%AB/</loc>
     <lastmod>2021-04-18T08:50:29+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

@@ -1,0 +1,50 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Developer Learning Resource for newbie 網頁開發學習資源 – MySQL</title>
+    <link>https://web-developer-learning-resource-for-newbie.kejyun.com/tags/mysql/</link>
+    <description>Recent content in MySQL on Web Developer Learning Resource for newbie 網頁開發學習資源</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sun, 18 Apr 2021 08:50:29 +0800</lastBuildDate>
+    
+	  <atom:link href="https://web-developer-learning-resource-for-newbie.kejyun.com/tags/mysql/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: MySQL</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/database/mysql/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/database/mysql/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;書籍&#34;&gt;書籍&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://it-ebooks.info/book/256/&#34;&gt;High Performance MySQL, 2nd Edition&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;影片&#34;&gt;影片&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=F5AlxQvya5A&amp;amp;list=PL3B743E17BCF7B958&#34;&gt;Database Design and Normalization&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=6pbxQQG25Jw&amp;amp;list=PL_c9BZzLwBRKHaa-qY7N-bmZYLPx3RYVB&#34;&gt;MySQL Complete Series!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=krx-w9icrkU&amp;amp;list=PL405B31DD586979DE&#34;&gt;MySQL Data Types&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;設計模式&#34;&gt;設計模式&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.toadworld.com/platforms/mysql/w/wiki/6103.naming-conventions.aspx&#34;&gt;Naming Conventions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;文件&#34;&gt;文件&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://overapi.com/mysql/&#34;&gt;MySQL Cheat Sheet | OverAPI.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

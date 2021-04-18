@@ -1,0 +1,36 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Developer Learning Resource for newbie 網頁開發學習資源 – CC Photo</title>
+    <link>https://web-developer-learning-resource-for-newbie.kejyun.com/tags/cc-photo/</link>
+    <description>Recent content in CC Photo on Web Developer Learning Resource for newbie 網頁開發學習資源</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sun, 18 Apr 2021 08:50:29 +0800</lastBuildDate>
+    
+	  <atom:link href="https://web-developer-learning-resource-for-newbie.kejyun.com/tags/cc-photo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: 授權圖片</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/photo/cc-photo/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/photo/cc-photo/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://photopin.com/&#34;&gt;Photo Pin : Free Photos for Bloggers via Creative Commons&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.coverr.co/&#34;&gt;Coverr - Beautiful, free videos for your homepage&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

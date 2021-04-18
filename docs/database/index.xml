@@ -1,0 +1,143 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Developer Learning Resource for newbie 網頁開發學習資源 – 資料庫</title>
+    <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/database/</link>
+    <description>Recent content in 資料庫 on Web Developer Learning Resource for newbie 網頁開發學習資源</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sun, 18 Apr 2021 08:50:29 +0800</lastBuildDate>
+    
+	  <atom:link href="https://web-developer-learning-resource-for-newbie.kejyun.com/docs/database/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: MySQL</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/database/mysql/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/database/mysql/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;書籍&#34;&gt;書籍&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://it-ebooks.info/book/256/&#34;&gt;High Performance MySQL, 2nd Edition&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;影片&#34;&gt;影片&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=F5AlxQvya5A&amp;amp;list=PL3B743E17BCF7B958&#34;&gt;Database Design and Normalization&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=6pbxQQG25Jw&amp;amp;list=PL_c9BZzLwBRKHaa-qY7N-bmZYLPx3RYVB&#34;&gt;MySQL Complete Series!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=krx-w9icrkU&amp;amp;list=PL405B31DD586979DE&#34;&gt;MySQL Data Types&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;設計模式&#34;&gt;設計模式&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.toadworld.com/platforms/mysql/w/wiki/6103.naming-conventions.aspx&#34;&gt;Naming Conventions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;文件&#34;&gt;文件&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://overapi.com/mysql/&#34;&gt;MySQL Cheat Sheet | OverAPI.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: PostgreSQL</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/database/postgresql/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/database/postgresql/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;文章&#34;&gt;文章&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.postgresql.tw/&#34;&gt;簡介 - PostgreSQL 中文使用手冊&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;社群&#34;&gt;社群&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://postgresql.tw/&#34;&gt;PostgreSQL台灣使用者社群&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;軟體&#34;&gt;軟體&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://dbeaver.io/&#34;&gt;DBeaver Community | Free Universal Database Tool&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;官方&#34;&gt;官方&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.postgresql.org/&#34;&gt;PostgreSQL: The world&amp;rsquo;s most advanced open source database&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: MongoDB</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/database/mongodb/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/database/mongodb/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;影片&#34;&gt;影片&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.udacity.com/course/ud032&#34;&gt;Data Wrangling with MongoDB Online Course - Udacity&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Redis</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/database/redis/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/database/redis/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;gui-管理工具&#34;&gt;GUI 管理工具&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/luin/medis&#34;&gt;GitHub - luin/medis: 💻 Medis is a beautiful, easy-to-use Mac database management application for Redis.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/qishibo/AnotherRedisDesktopManager/&#34;&gt;GitHub - qishibo/AnotherRedisDesktopManager: 🚀🚀🚀A faster, better and more stable redis desktop manager, compatible with Linux, windows, mac. What&amp;rsquo;s more, it won&amp;rsquo;t crash when loading a large number of keys.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://redisdesktop.com/&#34;&gt;Redis Desktop Manager - Redis GUI management tool for Windows, macOS, iPad and Linux.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 學習資源</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/database/learning-resource/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/database/learning-resource/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;資料庫學習資源&#34;&gt;資料庫學習資源&lt;/h1&gt;
+&lt;h2 id=&#34;影片&#34;&gt;影片&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.udacity.com/course/ud359&#34;&gt;Intro to Data Science Online Course - Udacity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.udacity.com/course/cs215&#34;&gt;Introduction to Algorithms Course Online - Udacity&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;資料圖表&#34;&gt;資料圖表&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://dbdesigner.net/&#34;&gt;DbDesigner.net&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;社群&#34;&gt;社群&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/groups/142553245867411/&#34;&gt;MongoDB 小聚 - Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/groups/322462354478967/&#34;&gt;Redis 小聚 - Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
