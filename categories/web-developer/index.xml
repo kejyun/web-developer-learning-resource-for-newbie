@@ -382,6 +382,65 @@
     </item>
     
     <item>
+      <title>Docs: 主機</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/service/hosting/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/service/hosting/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;hosting&#34;&gt;Hosting&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://aws.amazon.com/&#34;&gt;Amazon Web Services (AWS)&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloudharmony.com/speedtest-for-aws&#34;&gt;Amazon Web Services Network Test&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linode.com/&#34;&gt;Linode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.heroku.com/&#34;&gt;Heroku&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.vultr.com/&#34;&gt;Vultr&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.openshift.com/&#34;&gt;OpenShift&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.parse.com/&#34;&gt;Parse&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.digitalocean.com/&#34;&gt;DigitalOcean&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.hostinger.com.hk/&#34;&gt;Hostinger&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.serverloft.de/&#34;&gt;serverloft&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;dns&#34;&gt;DNS&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.noip.com/&#34;&gt;No-IP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.godaddy.com/&#34;&gt;Godaddy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ssl&#34;&gt;SSL&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ssls.com/&#34;&gt;SSL Certificates&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://letsencrypt.org/&#34;&gt;Let&amp;rsquo;s Encrypt&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/letsencrypt/letsencrypt&#34;&gt;letsencrypt github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Gas_sSB-5SU&#34;&gt;Let&amp;rsquo;s Encrypt Demo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.startssl.com/&#34;&gt;StartSSL™ Certificates&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sslforfree.com/&#34;&gt;SSL For Free&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ssl.comodo.com/&#34;&gt;Comodo SSL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.symantec.com/zh/tw/ssl-certificates/&#34;&gt;Symantec SSL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tw.godaddy.com/web-security/ssl-certificate&#34;&gt;SSL 憑證 GoDaddy TW&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;websites-builder&#34;&gt;Websites Builder&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.weebly.com/&#34;&gt;Weebly&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.wix.com/&#34;&gt;WIX&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://squarespace.com/&#34;&gt;Squarespace&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.jimdo.com/index.php&#34;&gt;Jimdo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.webydo.com/&#34;&gt;Webydo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.strikingly.com/&#34;&gt;Strikingly&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.webnode.tw/personal-websites/&#34;&gt;Webnode&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: 學習資源</title>
       <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/backend-program/node-js/learning-resource/</link>
       <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
@@ -432,6 +491,22 @@
 &lt;h2 id=&#34;文件&#34;&gt;文件&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://djangogirlstaipei.gitbooks.io/django-girls-taipei-tutorial/content/index.html&#34;&gt;Django Girls 學習指南&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 文件</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/linux/document/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/linux/document/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://overapi.com/linux/&#34;&gt;Linux Command Line Cheat Sheet | OverAPI.com&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
@@ -492,6 +567,29 @@
 &lt;h3 id=&#34;虛擬主機&#34;&gt;虛擬主機&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://koding.com/Home&#34;&gt;Koding | Say goodbye to your localhost and code in the cloud.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 討論社群</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/learning-resource/forum/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/learning-resource/forum/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;程式&#34;&gt;程式&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://stackoverflow.com/&#34;&gt;Stack Overflow&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;社群&#34;&gt;社群&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/groups/f2e.tw/&#34;&gt;Front-End Developers Taiwan - Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www2.f2e.tw/&#34;&gt;Front-End 台灣&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/iCoding.co&#34;&gt;iCoding.co - Facebook&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
@@ -719,6 +817,31 @@
 &lt;h2 id=&#34;sourcetree&#34;&gt;SourceTree&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://confluence.atlassian.com/bitbucket/set-up-an-ssh-key-728138079.html&#34;&gt;Set up an SSH key - Atlassian Documentation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Email</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/service/email/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/service/email/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;email-服務&#34;&gt;Email 服務&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://mandrill.com/&#34;&gt;Mandrill - Transactional Email from MailChimp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mailgun.com/&#34;&gt;Mailgun - Transactional Email API Service for Developers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sendgrid.com/&#34;&gt;SendGrid - Email Delivery &amp;amp; Transactional Email Service&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://mailchimp.com/&#34;&gt;MailChimp - Send Better Email&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://aws.amazon.com/tw/ses/&#34;&gt;AWS - Amazon Simple Email Service (SES) – 以雲端為基礎的電子郵件服務&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;簡訊服務&#34;&gt;簡訊服務&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.afreesms.com/freesms/&#34;&gt;Send Free SMS Worldwide&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
@@ -1041,6 +1164,48 @@
     </item>
     
     <item>
+      <title>Docs: 影片</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/learning-resource/video/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/learning-resource/video/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pluralsight.com/&#34;&gt;Pluralsight&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.codecademy.com/&#34;&gt;Code Academy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.codeschool.com/&#34;&gt;Code School&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.udacity.com/&#34;&gt;Udacity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://teamtreehouse.com/&#34;&gt;Treehouse&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://tutsplus.com/&#34;&gt;Tuts+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.lynda.com/&#34;&gt;Lynda&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://leveluptuts.com/&#34;&gt;Level Up Tutorials&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.imooc.com/&#34;&gt;慕课网-国内最大的IT技能学习平台&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.skillshare.com/&#34;&gt;Skillshare&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 排程工作 (CronJob)</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/linux/cronjob/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/linux/cronjob/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;視覺化&#34;&gt;視覺化&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.corntab.com/pages/crontab-gui&#34;&gt;A visual crontab editor&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: 文件</title>
       <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/document/</link>
       <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
@@ -1331,6 +1496,24 @@
     </item>
     
     <item>
+      <title>Docs: 圖片</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/service/photo/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/service/photo/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;圖片服務&#34;&gt;圖片服務&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://imgur.com/&#34;&gt;Imgur&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://photobucket.com/&#34;&gt;Photobucket&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: 套件</title>
       <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/backend-program/php/packages/</link>
       <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
@@ -1462,245 +1645,6 @@
         &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.udacity.com/course/design101&#34;&gt;Intro to the Design of Everyday Things - Udacity&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.udacity.com/course/ud849&#34;&gt;UX Design for Mobile Developers Course - Udacity&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: 授權圖片</title>
-      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/photo/cc-photo/</link>
-      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
-      
-      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/photo/cc-photo/</guid>
-      <description>
-        
-        
-        &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://photopin.com/&#34;&gt;Photo Pin : Free Photos for Bloggers via Creative Commons&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.coverr.co/&#34;&gt;Coverr - Beautiful, free videos for your homepage&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: JavaScript</title>
-      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/javascript/</link>
-      <pubDate>Sat, 17 Apr 2021 08:50:29 +0800</pubDate>
-      
-      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/javascript/</guid>
-      <description>
-        
-        
-        
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: Svelte</title>
-      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/javascript/framework/svelte/</link>
-      <pubDate>Sat, 17 Apr 2021 08:50:29 +0800</pubDate>
-      
-      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/javascript/framework/svelte/</guid>
-      <description>
-        
-        
-        &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://svelte.dev/&#34;&gt;Svelte • Cybernetically enhanced web apps&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: 範本</title>
-      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/css/example/</link>
-      <pubDate>Sat, 17 Apr 2021 08:50:29 +0800</pubDate>
-      
-      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/css/example/</guid>
-      <description>
-        
-        
-        &lt;h2 id=&#34;打字&#34;&gt;打字&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://jsfiddle.net/leaverou/y8kNx/&#34;&gt;Typing&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;字體&#34;&gt;字體&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://yusugomori.com/projects/css-sans/fonts&#34;&gt;CSS SANS&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: Mockup</title>
-      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/mockup/</link>
-      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
-      
-      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/mockup/</guid>
-      <description>
-        
-        
-        &lt;h2 id=&#34;mockup-軟體&#34;&gt;Mockup 軟體&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.figma.com/&#34;&gt;Figma: the collaborative interface design tool.&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.figma.com/community&#34;&gt;Community – Figma&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.figmacrush.com/&#34;&gt;Figma Templates, UI kits and Freebies - Free Figma resources&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://figmacn.com/resource/figma-crush&#34;&gt;免费的 Figma 资源、模板 | Figma 中文网（非官方）&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=3q3FV65ZrUs&#34;&gt;Figma Tutorial - A Free UI Design/Prototyping Tool. It&amp;rsquo;s awesome. - YouTube&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/channel/UCQsVmhSa4X-G3lHlUtejzLA/videos&#34;&gt;Figma - YouTube&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://cacoo.com/&#34;&gt;Online Diagram and Flowchart Software | Cacoo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://moqups.com/&#34;&gt;Moqups&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.sketch.com/&#34;&gt;Sketch - The digital design toolkit&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.invisionapp.com/&#34;&gt;InVision | Digital product design, workflow &amp;amp; collaboration&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://zeplin.io/&#34;&gt;Zeplin—Collaboration and handoff for product teams | Zeplin&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.flinto.com/&#34;&gt;Flinto – The App Design App&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://balsamiq.com/&#34;&gt;Balsamiq Mockups&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://marvelapp.com/&#34;&gt;Marvel - The design platform for digital products. Get started for free.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: phpstorm</title>
-      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/code-editor/phpstorm/</link>
-      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
-      
-      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/code-editor/phpstorm/</guid>
-      <description>
-        
-        
-        &lt;h2 id=&#34;sftp-檔案自動同步&#34;&gt;SFTP 檔案自動同步&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;1. 部署方式&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;選單 &amp;gt; &lt;code&gt;Tools&lt;/code&gt; &amp;gt; &lt;code&gt;Deployment&lt;/code&gt; &amp;gt; &lt;code&gt;Configuration&lt;/code&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;../images/phpstorm-tools-deployment-configuration.png&#34; alt=&#34;部署方式&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;2. 設定部署連線方式&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在 &lt;code&gt;Connection&lt;/code&gt; 的頁籤選擇使用 &lt;code&gt;SFTP&lt;/code&gt; 去連線&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;選項&lt;/th&gt;
-&lt;th&gt;說明&lt;/th&gt;
-&lt;th&gt;範例&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;SFTP host&lt;/td&gt;
-&lt;td&gt;主機網址&lt;/td&gt;
-&lt;td&gt;server.kejyun.com&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Port&lt;/td&gt;
-&lt;td&gt;連接阜&lt;/td&gt;
-&lt;td&gt;22&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Root path&lt;/td&gt;
-&lt;td&gt;根目錄&lt;/td&gt;
-&lt;td&gt;/home/kejyun/blog&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;User name&lt;/td&gt;
-&lt;td&gt;帳號&lt;/td&gt;
-&lt;td&gt;kejyun&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Auth type&lt;/td&gt;
-&lt;td&gt;驗證方式&lt;/td&gt;
-&lt;td&gt;Key pair&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Private key file&lt;/td&gt;
-&lt;td&gt;私密金鑰&lt;/td&gt;
-&lt;td&gt;/Users/kejyun/.ssh/id_rsa&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;img src=&#34;../images/phpstorm-tools-deployment-configuration-connection.png&#34; alt=&#34;設定部署連線方式&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;3. 設定部署資料夾對應方式&lt;/strong&gt;&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;選項&lt;/th&gt;
-&lt;th&gt;說明&lt;/th&gt;
-&lt;th&gt;範例&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Local path&lt;/td&gt;
-&lt;td&gt;本地端路徑&lt;/td&gt;
-&lt;td&gt;/Users/kejyun/Code/Blog&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Deployment path on server&lt;/td&gt;
-&lt;td&gt;部署路徑&lt;/td&gt;
-&lt;td&gt;/&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;blockquote&gt;
-&lt;p&gt;關於 &lt;code&gt;Deployment path on server&lt;/code&gt;，這裡的路徑指的是相對於 &lt;code&gt;Root path&lt;/code&gt; 的路徑，若 &lt;code&gt;Root path&lt;/code&gt; 為 &lt;code&gt;/home/kejyun/blog&lt;/code&gt; 而 &lt;code&gt;Deployment path on server&lt;/code&gt; 為 &lt;code&gt;web&lt;/code&gt;，則在本地端專案的 &lt;code&gt;test.txt&lt;/code&gt; 檔案就會被上傳到遠端的 &lt;code&gt;/home/kejyun/blog/web&lt;/code&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;設定完成後點選 &lt;code&gt;Use this server as default&lt;/code&gt; 就可以設定此專案使用這個連線設定&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../images/phpstorm-tools-deployment-configuration-mappings.png&#34; alt=&#34;設定部署資料夾對應方式&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;4. 部署選項&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;選單 &amp;gt; &lt;code&gt;Tools&lt;/code&gt; &amp;gt; &lt;code&gt;Deployment&lt;/code&gt; &amp;gt; &lt;code&gt;Options&lt;/code&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;../images/phpstorm-tools-deployment-options.png&#34; alt=&#34;部署選項&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;5. 設定部署選項&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;選擇 &lt;code&gt;On explicit save action&lt;/code&gt; 設定儲存檔案時自動上傳&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../images/phpstorm-tools-deployment-options-setting.png&#34; alt=&#34;設定部署選項&#34;&gt;&lt;/p&gt;
-&lt;p&gt;設定完成後，就可以在專案中，儲存檔案時自動將檔案上傳到遠端伺服器了！&lt;/p&gt;
-&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://confluence.jetbrains.com/display/PhpStorm/Sync+changes+and+automatic+upload+to+a+deployment+server+in+PhpStorm&#34;&gt;Sync changes and automatic upload to a deployment server in PhpStorm - PhpStorm - Confluence&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.jetbrains.com/help/phpstorm/2016.2/options.html&#34;&gt;PhpStorm 2016.2 Help :: Options&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://plugins.jetbrains.com/plugin/7374-source-synchronizer&#34;&gt;Source Synchronizer - Plugins | JetBrains&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: 其他圖片</title>
-      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/photo/other-photo/</link>
-      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
-      
-      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/photo/other-photo/</guid>
-      <description>
-        
-        
-        &lt;h2 id=&#34;假圖&#34;&gt;假圖&lt;/h2&gt;
-&lt;h3 id=&#34;一般假圖&#34;&gt;一般假圖&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://photopin.com/&#34;&gt;Placehold.it - Quick and simple image placeholders&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://fakeimg.pl/&#34;&gt;Fake images please?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://dummyimage.com/&#34;&gt;Dynamic Dummy Image Generator - DummyImage.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://imsky.github.io/holder/&#34;&gt;Holder.js - client side image placeholders&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;動物假圖&#34;&gt;動物假圖&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://placekitten.com/&#34;&gt;{placekitten}&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;綜合&#34;&gt;綜合&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://lorempixel.com/&#34;&gt;lorempixel - placeholder images for every case&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://unsplash.it/&#34;&gt;Unsplash It&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;排版&#34;&gt;排版&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://griddle.it/&#34;&gt;Website layout made easy | Griddle.it&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>

@@ -353,6 +353,65 @@
     </item>
     
     <item>
+      <title>Docs: 主機</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/service/hosting/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/service/hosting/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;hosting&#34;&gt;Hosting&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://aws.amazon.com/&#34;&gt;Amazon Web Services (AWS)&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloudharmony.com/speedtest-for-aws&#34;&gt;Amazon Web Services Network Test&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linode.com/&#34;&gt;Linode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.heroku.com/&#34;&gt;Heroku&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.vultr.com/&#34;&gt;Vultr&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.openshift.com/&#34;&gt;OpenShift&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.parse.com/&#34;&gt;Parse&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.digitalocean.com/&#34;&gt;DigitalOcean&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.hostinger.com.hk/&#34;&gt;Hostinger&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.serverloft.de/&#34;&gt;serverloft&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;dns&#34;&gt;DNS&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.noip.com/&#34;&gt;No-IP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.godaddy.com/&#34;&gt;Godaddy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ssl&#34;&gt;SSL&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ssls.com/&#34;&gt;SSL Certificates&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://letsencrypt.org/&#34;&gt;Let&amp;rsquo;s Encrypt&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/letsencrypt/letsencrypt&#34;&gt;letsencrypt github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Gas_sSB-5SU&#34;&gt;Let&amp;rsquo;s Encrypt Demo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.startssl.com/&#34;&gt;StartSSL™ Certificates&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sslforfree.com/&#34;&gt;SSL For Free&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ssl.comodo.com/&#34;&gt;Comodo SSL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.symantec.com/zh/tw/ssl-certificates/&#34;&gt;Symantec SSL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tw.godaddy.com/web-security/ssl-certificate&#34;&gt;SSL 憑證 GoDaddy TW&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;websites-builder&#34;&gt;Websites Builder&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.weebly.com/&#34;&gt;Weebly&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.wix.com/&#34;&gt;WIX&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://squarespace.com/&#34;&gt;Squarespace&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.jimdo.com/index.php&#34;&gt;Jimdo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.webydo.com/&#34;&gt;Webydo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.strikingly.com/&#34;&gt;Strikingly&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.webnode.tw/personal-websites/&#34;&gt;Webnode&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: 學習資源</title>
       <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/backend-program/node-js/learning-resource/</link>
       <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
@@ -403,6 +462,45 @@
 &lt;h2 id=&#34;文件&#34;&gt;文件&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://djangogirlstaipei.gitbooks.io/django-girls-taipei-tutorial/content/index.html&#34;&gt;Django Girls 學習指南&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 文件</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/linux/document/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/linux/document/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://overapi.com/linux/&#34;&gt;Linux Command Line Cheat Sheet | OverAPI.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 討論社群</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/learning-resource/forum/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/learning-resource/forum/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;程式&#34;&gt;程式&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://stackoverflow.com/&#34;&gt;Stack Overflow&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;社群&#34;&gt;社群&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/groups/f2e.tw/&#34;&gt;Front-End Developers Taiwan - Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www2.f2e.tw/&#34;&gt;Front-End 台灣&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/iCoding.co&#34;&gt;iCoding.co - Facebook&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
@@ -604,6 +702,31 @@
 &lt;h2 id=&#34;sourcetree&#34;&gt;SourceTree&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://confluence.atlassian.com/bitbucket/set-up-an-ssh-key-728138079.html&#34;&gt;Set up an SSH key - Atlassian Documentation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Email</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/service/email/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/service/email/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;email-服務&#34;&gt;Email 服務&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://mandrill.com/&#34;&gt;Mandrill - Transactional Email from MailChimp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mailgun.com/&#34;&gt;Mailgun - Transactional Email API Service for Developers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sendgrid.com/&#34;&gt;SendGrid - Email Delivery &amp;amp; Transactional Email Service&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://mailchimp.com/&#34;&gt;MailChimp - Send Better Email&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://aws.amazon.com/tw/ses/&#34;&gt;AWS - Amazon Simple Email Service (SES) – 以雲端為基礎的電子郵件服務&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;簡訊服務&#34;&gt;簡訊服務&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.afreesms.com/freesms/&#34;&gt;Send Free SMS Worldwide&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
@@ -910,6 +1033,48 @@
     </item>
     
     <item>
+      <title>Docs: 影片</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/learning-resource/video/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/learning-resource/video/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pluralsight.com/&#34;&gt;Pluralsight&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.codecademy.com/&#34;&gt;Code Academy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.codeschool.com/&#34;&gt;Code School&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.udacity.com/&#34;&gt;Udacity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://teamtreehouse.com/&#34;&gt;Treehouse&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://tutsplus.com/&#34;&gt;Tuts+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.lynda.com/&#34;&gt;Lynda&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://leveluptuts.com/&#34;&gt;Level Up Tutorials&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.imooc.com/&#34;&gt;慕课网-国内最大的IT技能学习平台&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.skillshare.com/&#34;&gt;Skillshare&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 排程工作 (CronJob)</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/linux/cronjob/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/linux/cronjob/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;視覺化&#34;&gt;視覺化&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.corntab.com/pages/crontab-gui&#34;&gt;A visual crontab editor&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: 文件</title>
       <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/document/</link>
       <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
@@ -1171,6 +1336,24 @@
     </item>
     
     <item>
+      <title>Docs: 圖片</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/service/photo/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/service/photo/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;圖片服務&#34;&gt;圖片服務&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://imgur.com/&#34;&gt;Imgur&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://photobucket.com/&#34;&gt;Photobucket&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: 套件</title>
       <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/backend-program/php/packages/</link>
       <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
@@ -1319,6 +1502,24 @@
         &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://photopin.com/&#34;&gt;Photo Pin : Free Photos for Bloggers via Creative Commons&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.coverr.co/&#34;&gt;Coverr - Beautiful, free videos for your homepage&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: 書籍</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/learning-resource/book/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/learning-resource/book/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;書籍學習資源&#34;&gt;書籍學習資源&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://it-ebooks.info/&#34;&gt;IT eBooks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://chimera.labs.oreilly.com/&#34;&gt;Atlas Beta - The new learning environment from O’Reilly&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>
@@ -1587,220 +1788,6 @@
 &lt;li&gt;&lt;a href=&#34;https://www.facebook.com/groups/f2e.tw/&#34;&gt;Front-End Developers Taiwan - Facebook&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www2.f2e.tw/&#34;&gt;Front-End 台灣&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.facebook.com/groups/node.js.tw/&#34;&gt;node.js台灣 - Facebook&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: 工具</title>
-      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/javascript/tool/</link>
-      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
-      
-      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/javascript/tool/</guid>
-      <description>
-        
-        
-        &lt;h2 id=&#34;線上圖表繪圖&#34;&gt;線上圖表繪圖&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://raw.densitydesign.org/&#34;&gt;Raw&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://infogr.am/&#34;&gt;Create infographics &amp;amp; online charts | infogr.am&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;編譯&#34;&gt;編譯&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://babeljs.io/&#34;&gt;Babel · The compiler for writing next generation JavaScript&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: 工具</title>
-      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/ui-ux-design/tools/</link>
-      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
-      
-      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/ui-ux-design/tools/</guid>
-      <description>
-        
-        
-        &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.layoutit.com/&#34;&gt;LayoutIt! - Interface Builder for Bootstrap&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;wireframemockupprototype&#34;&gt;Wireframe、Mockup、Prototype&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.figma.com/&#34;&gt;Figma: the collaborative interface design tool.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://miro.com/&#34;&gt;An Online Visual Collaboration Platform for Teamwork | Miro&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://balsamiq.com/&#34;&gt;Balsamiq&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.axure.com/&#34;&gt;Axure&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.adobe.com/tw/products/xd.html&#34;&gt;Adobe Xd&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.sketchapp.com/&#34;&gt;Sketch&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: 特殊字元</title>
-      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/font/special-character/</link>
-      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
-      
-      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/font/special-character/</guid>
-      <description>
-        
-        
-        &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://htmlarrows.com/&#34;&gt;HTML Symbol Codes and Entities&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: 工具</title>
-      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/css/tool/</link>
-      <pubDate>Sat, 17 Apr 2021 08:50:29 +0800</pubDate>
-      
-      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/css/tool/</guid>
-      <description>
-        
-        
-        &lt;h2 id=&#34;像素&#34;&gt;像素&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://pxtoem.com/&#34;&gt;PXtoEM.com: PX to EM conversion made simple.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;軟體&#34;&gt;軟體&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://lesscss.org/&#34;&gt;Less.js&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/postcss/postcss&#34;&gt;postcss&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://sass-lang.com/&#34;&gt;Sass: Syntactically Awesome Style Sheets&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;文章&#34;&gt;文章&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;[PostCSS: th&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: vscode</title>
-      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/code-editor/vscode/</link>
-      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
-      
-      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/code-editor/vscode/</guid>
-      <description>
-        
-        
-        &lt;h2 id=&#34;sftp-套件&#34;&gt;SFTP 套件&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;設定檔案&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;.vscode/sftp.json&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-json&#34; data-lang=&#34;json&#34;&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;{&lt;/span&gt;
-    &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;name&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#34;My Server&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
-    &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;host&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#34;kjhost&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
-    &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;protocol&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#34;sftp&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
-    &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;port&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#0000cf;font-weight:bold&#34;&gt;22&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
-    &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;username&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#34;kj&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
-    &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;remotePath&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#34;/home/kj/&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
-    &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;privateKeyPath&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#34;/Users/kejyun/.ssh/id_rsa&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
-    &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;watcher&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;{&lt;/span&gt;
-        &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;files&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#4e9a06&#34;&gt;&amp;#34;**/*{bundle.css,bundle.css.map,bundle.js,bundle.js.map}&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
-        &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;autoUpload&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;true&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
-        &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;uploadOnSave&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;true&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;,&lt;/span&gt;
-        &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;autoDelete&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;false&lt;/span&gt;
-    &lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;},&lt;/span&gt;
-    &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;&amp;#34;uploadOnSave&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#204a87;font-weight:bold&#34;&gt;true&lt;/span&gt;
-&lt;span style=&#34;color:#000;font-weight:bold&#34;&gt;}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://marketplace.visualstudio.com/items?itemName=liximomo.sftp&#34;&gt;SFTP - Visual Studio Marketplace&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/liximomo/vscode-sftp&#34;&gt;GitHub - liximomo/vscode-sftp: Super fast sftp/ftp extension for VS Code&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://blog.toright.com/posts/6456/vscode-sftp-ssh-code-sync.html&#34;&gt;透過 VSCode SFTP/SSH 自動同步 Server 程式碼 - Soul &amp;amp; Shell Blog&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/liximomo/vscode-sftp/issues/78&#34;&gt;How does watcher works? · Issue #78 · liximomo/vscode-sftp · GitHub&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: 伺服器</title>
-      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/server-sevice/</link>
-      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
-      
-      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/server-sevice/</guid>
-      <description>
-        
-        
-        &lt;h2 id=&#34;綜合&#34;&gt;綜合&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.apachefriends.org/zh_tw/index.html&#34;&gt;XAMPP&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.mamp.info/en/&#34;&gt;MAMP&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;apache&#34;&gt;Apache&lt;/h2&gt;
-&lt;h3 id=&#34;文件&#34;&gt;文件&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://overapi.com/mod_rewrite/&#34;&gt;mod_rewrite Cheat Sheet | OverAPI.com&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;mysql&#34;&gt;MySQL&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.sequelpro.com/&#34;&gt;Sequel Pro&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;虛擬主機&#34;&gt;虛擬主機&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.vagrantup.com/&#34;&gt;Vagrant&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: 文章</title>
-      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/ui-ux-design/article/</link>
-      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
-      
-      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/ui-ux-design/article/</guid>
-      <description>
-        
-        
-        &lt;h2 id=&#34;英文&#34;&gt;英文&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.google.com/design/spec/material-design/introduction.html&#34;&gt;Google Material Design&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;中文&#34;&gt;中文&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://wcc723.gitbooks.io/google_design_translate/content/index.html&#34;&gt;Google Material Design 正體中文版&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.fourdesire.com/&#34;&gt;Fourdesire&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.clifftechnologies.com.tw/category/web-design/&#34;&gt;網站設計 | Cliff Technologies&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;wireframemockupprototype&#34;&gt;Wireframe、Mockup、Prototype&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://kopu.chat/2017/06/22/wireframe%E3%80%81mockup%E8%88%87prototype%E7%9A%84%E5%B7%AE%E7%95%B0%EF%BC%9F%E4%BE%86%E7%9C%8B%E7%9C%8B%E5%AE%8C%E6%95%B4%E7%9A%84%E7%94%A2%E5%93%81ui%E8%A8%AD%E8%A8%88%E6%B5%81%E7%A8%8B/&#34;&gt;Wireframe、Mockup與Prototype的差異？來看看完整的產品UI設計流程&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: 學習資源</title>
-      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/css/learning-resource/</link>
-      <pubDate>Sat, 17 Apr 2021 08:50:29 +0800</pubDate>
-      
-      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/css/learning-resource/</guid>
-      <description>
-        
-        
-        &lt;h2 id=&#34;影片&#34;&gt;影片&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=0afZj1G0BIE&#34;&gt;Learn CSS in 12 Minutes&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;線上教學&#34;&gt;線上教學&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://flukeout.github.io/&#34;&gt;CSS Diner - Where we feast on CSS Selectors!&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;文件&#34;&gt;文件&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://overapi.com/css/&#34;&gt;CSS Cheat Sheet | OverAPI.com&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>

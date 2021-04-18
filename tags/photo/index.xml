@@ -84,6 +84,24 @@
     </item>
     
     <item>
+      <title>Docs: 圖片</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/service/photo/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/service/photo/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;圖片服務&#34;&gt;圖片服務&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://imgur.com/&#34;&gt;Imgur&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://photobucket.com/&#34;&gt;Photobucket&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Docs: 授權圖片</title>
       <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/photo/cc-photo/</link>
       <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
@@ -144,6 +162,10 @@
         
         
         &lt;h2 id=&#34;繪圖&#34;&gt;繪圖&lt;/h2&gt;
+&lt;h2 id=&#34;服務&#34;&gt;服務&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zeplin.io/&#34;&gt;zeplin&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3 id=&#34;免費&#34;&gt;免費&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://krita.org/&#34;&gt;Krita | Digital Painting. Creative Freedom.&lt;/a&gt;&lt;/li&gt;

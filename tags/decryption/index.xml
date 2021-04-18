@@ -1,0 +1,41 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Developer Learning Resource for newbie 網頁開發學習資源 – decryption</title>
+    <link>https://web-developer-learning-resource-for-newbie.kejyun.com/tags/decryption/</link>
+    <description>Recent content in decryption on Web Developer Learning Resource for newbie 網頁開發學習資源</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sun, 18 Apr 2021 08:50:29 +0800</lastBuildDate>
+    
+	  <atom:link href="https://web-developer-learning-resource-for-newbie.kejyun.com/tags/decryption/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: 加解密</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/encryption-decryption/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/encryption-decryption/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;線上加解密&#34;&gt;線上加解密&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.yrezgui.com/kodigon/#/&#34;&gt;Kodigon - Example of project using AngularJS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://md5hashing.net/&#34;&gt;Ultimate Hashing and Anonymity toolkit&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;文章&#34;&gt;文章&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/starbugs/how-to-store-password-in-database-sefely-6b20f48def92&#34;&gt;聽說不能用明文存密碼，那到底該怎麼存？ - StarBugs Weekly 星巴哥技術專欄 - Medium&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

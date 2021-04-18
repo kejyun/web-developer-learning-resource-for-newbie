@@ -1,0 +1,37 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Developer Learning Resource for newbie 網頁開發學習資源 – 書籍</title>
+    <link>https://web-developer-learning-resource-for-newbie.kejyun.com/tags/%E6%9B%B8%E7%B1%8D/</link>
+    <description>Recent content in 書籍 on Web Developer Learning Resource for newbie 網頁開發學習資源</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sun, 18 Apr 2021 08:50:29 +0800</lastBuildDate>
+    
+	  <atom:link href="https://web-developer-learning-resource-for-newbie.kejyun.com/tags/%E6%9B%B8%E7%B1%8D/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: 書籍</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/learning-resource/book/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/learning-resource/book/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;書籍學習資源&#34;&gt;書籍學習資源&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://it-ebooks.info/&#34;&gt;IT eBooks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://chimera.labs.oreilly.com/&#34;&gt;Atlas Beta - The new learning environment from O’Reilly&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

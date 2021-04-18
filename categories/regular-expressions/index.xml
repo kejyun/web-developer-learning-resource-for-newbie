@@ -1,0 +1,45 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Developer Learning Resource for newbie 網頁開發學習資源 – regular expressions</title>
+    <link>https://web-developer-learning-resource-for-newbie.kejyun.com/categories/regular-expressions/</link>
+    <description>Recent content in regular expressions on Web Developer Learning Resource for newbie 網頁開發學習資源</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sun, 18 Apr 2021 08:50:29 +0800</lastBuildDate>
+    
+	  <atom:link href="https://web-developer-learning-resource-for-newbie.kejyun.com/categories/regular-expressions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: 正規表示式</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/regular-expressions/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/regular-expressions/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;正規表示式視覺化&#34;&gt;正規表示式視覺化&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.debuggex.com/&#34;&gt;Debuggex: The online visual regex tester&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.regexper.com/&#34;&gt;Regexper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.regexr.com/&#34;&gt;RegExr&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://jex.im/regulex/&#34;&gt;Regulex：JavaScript Regular Expression Visualizer.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://regex101.com/&#34;&gt;Online regex tester and debugger: JavaScript, Python, PHP, and PCRE&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;文件&#34;&gt;文件&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://overapi.com/regex/&#34;&gt;Regex Cheat Sheet | OverAPI.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/aloisdg/awesome-regex&#34;&gt;aloisdg/awesome-regex: A curated collection of awesome Regex libraries, tools, frameworks and software&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

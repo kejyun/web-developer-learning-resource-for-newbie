@@ -1,0 +1,99 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Developer Learning Resource for newbie 網頁開發學習資源 – 圖表分析</title>
+    <link>https://web-developer-learning-resource-for-newbie.kejyun.com/categories/%E5%9C%96%E8%A1%A8%E5%88%86%E6%9E%90/</link>
+    <description>Recent content in 圖表分析 on Web Developer Learning Resource for newbie 網頁開發學習資源</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sun, 18 Apr 2021 08:50:29 +0800</lastBuildDate>
+    
+	  <atom:link href="https://web-developer-learning-resource-for-newbie.kejyun.com/categories/%E5%9C%96%E8%A1%A8%E5%88%86%E6%9E%90/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: 圖表分析</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/chart/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/chart/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;圖表&#34;&gt;圖表&lt;/h2&gt;
+&lt;h3 id=&#34;免費--試用&#34;&gt;免費 + 試用&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.chartjs.org/&#34;&gt;Chart.js | HTML5 Charts for your website.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.highcharts.com/&#34;&gt;Highcharts - Interactive JavaScript charts for your webpage&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://tenxer.github.io/xcharts/&#34;&gt;xCharts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cacoo.com/&#34;&gt;Cacoo - 即時協作線上製作圖表&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://processingjs.org/&#34;&gt;Processing.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://d3js.org/&#34;&gt;D3.js - Data-Driven Documents&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://threejs.org/&#34;&gt;three.js - Javascript 3D library&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.amcharts.com/&#34;&gt;amCharts - JavaScript Charts and Maps&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developers.google.com/chart/&#34;&gt;Google Charts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://dygraphs.com/&#34;&gt;dygraphs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://echarts.baidu.com/&#34;&gt;ECharts&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;付費&#34;&gt;付費&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.fusioncharts.com/&#34;&gt;FusionCharts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.omnigroup.com/omnigraffle&#34;&gt;OmniGraffle&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;繪圖&#34;&gt;繪圖&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://p5js.org/&#34;&gt;p5.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://famous.org/&#34;&gt;Famous&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;地圖&#34;&gt;地圖&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://google-maps-utility-library-v3.googlecode.com/svn/trunk/markerclusterer/examples/advanced_example.html&#34;&gt;MarkerClusterer v3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://leafletjs.com/&#34;&gt;Leaflet - a JavaScript library for mobile-friendly maps&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.amcharts.com/&#34;&gt;amCharts - JavaScript Charts and Maps&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;程式繪圖&#34;&gt;程式繪圖&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://adrai.github.io/flowchart.js/&#34;&gt;flowchart.js&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;線上工具&#34;&gt;線上工具&lt;/h1&gt;
+&lt;h2 id=&#34;圖表-1&#34;&gt;圖表&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://datawrapper.de/&#34;&gt;Datawrapper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://public.tableau.com/s/&#34;&gt;Tableau Public&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://raw.densitydesign.org/&#34;&gt;Raw&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://infogr.am/en&#34;&gt;infogr.am&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://timeline.knightlab.com/&#34;&gt;Timeline JS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://plot.ly/&#34;&gt;Plotly&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.chartblocks.com/en/&#34;&gt;ChartBlocks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://piktochart.com/v3/&#34;&gt;Piktochart&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;爬蟲&#34;&gt;爬蟲&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://import.io/&#34;&gt;import.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;影片&#34;&gt;影片&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.udacity.com/course/ud507&#34;&gt;Data Visualization and D3.js Course - Udacity&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;投影片&#34;&gt;投影片&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.slideshare.net/kurotanshi/d3-48180820&#34;&gt;D3 圖表優化二三事&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;彙整整理&#34;&gt;彙整整理&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://selection.datavisualization.ch/&#34;&gt;Datavisualization.ch Selected Tools&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sites.google.com/site/fusiontablestalks/stories/&#34;&gt;Google Fusion Tables&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
