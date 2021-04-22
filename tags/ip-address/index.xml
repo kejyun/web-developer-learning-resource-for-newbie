@@ -1,0 +1,37 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Developer Learning Resource for newbie 網頁開發學習資源 – IP Address</title>
+    <link>https://web-developer-learning-resource-for-newbie.kejyun.com/tags/ip-address/</link>
+    <description>Recent content in IP Address on Web Developer Learning Resource for newbie 網頁開發學習資源</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Thu, 22 Apr 2021 08:50:29 +0800</lastBuildDate>
+    
+	  <atom:link href="https://web-developer-learning-resource-for-newbie.kejyun.com/tags/ip-address/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: IP Address</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/service/ip/</link>
+      <pubDate>Thu, 22 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/service/ip/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;ip-查詢服務&#34;&gt;IP 查詢服務&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ipapi.co/&#34;&gt;ipapi - IP Address Location API&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.maxmind.com/en/home&#34;&gt;IP Geolocation and Online Fraud Prevention | MaxMind&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

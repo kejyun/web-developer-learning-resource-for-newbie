@@ -42,5 +42,42 @@
       </description>
     </item>
     
+    <item>
+      <title>Docs: 文章</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/learning-resource/article/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/learning-resource/article/</guid>
+      <description>
+        
+        
+        &lt;h1 id=&#34;文章連結學習資源&#34;&gt;文章連結學習資源&lt;/h1&gt;
+&lt;h2 id=&#34;文件&#34;&gt;文件&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://roadmap.sh/&#34;&gt;Developer Roadmaps&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://roadmap.sh/frontend&#34;&gt;Learn to become a modern frontend developer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://roadmap.sh/backend&#34;&gt;Learn to become a modern backend developer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://roadmap.sh/devops&#34;&gt;DevOps Roadmap: Learn to become a DevOps Engineer or SRE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://roadmap.sh/android&#34;&gt;Android Developer Roadmap: Learn to become an Android developer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://roadmap.sh/postgresql-dba&#34;&gt;DBA Roadmap: Learn to become a database administrator with PostgreSQL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://roadmap.sh/react&#34;&gt;React Developer Roadmap: Learn to become a React developer&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/kamranahmedse/developer-roadmap&#34;&gt;Roadmap to becoming a web developer in 2017&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;工具&#34;&gt;工具&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://salmon.logdown.com/posts/199383-recommended-tools-web-site&#34;&gt;推薦用工具網站 « 小小鮭魚窩b&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://fredsarmento.me/frontend-tools/&#34;&gt;Frontend Tools&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;整理&#34;&gt;整理&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://buzzorange.com/techorange/2015/05/17/google-engineer-pack/&#34;&gt;好厲害的 coding 終極技術指南！Google 工程師都照做練功的&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
   </channel>
 </rss>

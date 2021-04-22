@@ -1,0 +1,37 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Developer Learning Resource for newbie 網頁開發學習資源 – advertisement</title>
+    <link>https://web-developer-learning-resource-for-newbie.kejyun.com/tags/advertisement/</link>
+    <description>Recent content in advertisement on Web Developer Learning Resource for newbie 網頁開發學習資源</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Thu, 22 Apr 2021 08:50:29 +0800</lastBuildDate>
+    
+	  <atom:link href="https://web-developer-learning-resource-for-newbie.kejyun.com/tags/advertisement/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: 廣告</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/advertisement/</link>
+      <pubDate>Thu, 22 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/advertisement/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;google&#34;&gt;Google&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com.tw/intl/zh-TW/doubleclick/publishers/welcome/&#34;&gt;歡迎使用 DFP 廣告管理系統 – DoubleClick&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/intl/zh-tw/adsense/start/#?modal_active=none&#34;&gt;AdSense&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

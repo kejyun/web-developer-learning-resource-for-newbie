@@ -5,7 +5,7 @@
     <description>Recent content in Learning Resource on Web Developer Learning Resource for newbie 網頁開發學習資源</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 18 Apr 2021 08:50:29 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 22 Apr 2021 08:50:29 +0800</lastBuildDate>
     
 	  <atom:link href="https://web-developer-learning-resource-for-newbie.kejyun.com/categories/learning-resource/index.xml" rel="self" type="application/rss+xml" />
     
@@ -25,6 +25,50 @@
         
         
         
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Facebook</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/social/facebook/</link>
+      <pubDate>Thu, 22 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/social/facebook/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;oglocale&#34;&gt;og:locale&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/translations/FacebookLocales.xml&#34;&gt;FacebookLocales&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://developers.facebook.com/tools/debug/sharing/&#34;&gt;Sharing Debugger - Facebook for Developers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developers.facebook.com/tools/comments/&#34;&gt;留言管理工具 - Facebook for Developers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: AWS </title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/service/hosting/aws/</link>
+      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/service/hosting/aws/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;官方&#34;&gt;官方&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://aws.amazon.com/&#34;&gt;Amazon Web Services (AWS)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;監控測試&#34;&gt;監控測試&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloudharmony.com/speedtest-for-aws&#34;&gt;Amazon Web Services Network Test&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[https://status.aws.amazon.com/](AWS Service Health Dashboard)&lt;/li&gt;
+&lt;/ul&gt;
+
       </description>
     </item>
     
@@ -397,12 +441,14 @@
 &lt;li&gt;&lt;a href=&#34;https://cloudharmony.com/speedtest-for-aws&#34;&gt;Amazon Web Services Network Test&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cloud.google.com/&#34;&gt;Google Cloud Platform (GCP)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://azure.microsoft.com/zh-tw/&#34;&gt;Microsoft Azure&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.digitalocean.com/&#34;&gt;DigitalOcean&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.linode.com/&#34;&gt;Linode&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.heroku.com/&#34;&gt;Heroku&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.vultr.com/&#34;&gt;Vultr&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.openshift.com/&#34;&gt;OpenShift&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.parse.com/&#34;&gt;Parse&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.digitalocean.com/&#34;&gt;DigitalOcean&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.hostinger.com.hk/&#34;&gt;Hostinger&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.serverloft.de/&#34;&gt;serverloft&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -1595,56 +1641,6 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://console.re/try&#34;&gt;Console.Re | Try Remote Javascript Development Console&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://browserify.org/&#34;&gt;Browserify&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: 專案管理</title>
-      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/project-management/</link>
-      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
-      
-      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/software/project-management/</guid>
-      <description>
-        
-        
-        &lt;h2 id=&#34;一般專案管理&#34;&gt;一般專案管理&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://trello.com/&#34;&gt;Trello&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://asana.com/&#34;&gt;Asana&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://miro.com/&#34;&gt;Miro | Free Online Collaborative Whiteboard Platform&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.redmine.org/&#34;&gt;Redmine&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;看板資料管理&#34;&gt;看板資料管理&lt;/h2&gt;
-&lt;h2 id=&#34;敏捷開發&#34;&gt;敏捷開發&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.thoughtworks.com/mingle/&#34;&gt;Project Management Software | Mingle&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.atlassian.com/software/jira&#34;&gt;JIRA&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.targetprocess.com/&#34;&gt;Targetprocess&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;版本控制&#34;&gt;版本控制&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.git-tower.com/&#34;&gt;Tower&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.sourcetreeapp.com/&#34;&gt;Source Tree&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://bitbucket.org/product/server&#34;&gt;Bitbucket&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Docs: 影片</title>
-      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/ui-ux-design/video/</link>
-      <pubDate>Sun, 18 Apr 2021 08:50:29 +0800</pubDate>
-      
-      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/ui-ux-design/video/</guid>
-      <description>
-        
-        
-        &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.udacity.com/course/design101&#34;&gt;Intro to the Design of Everyday Things - Udacity&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.udacity.com/course/ud849&#34;&gt;UX Design for Mobile Developers Course - Udacity&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>

@@ -1,0 +1,50 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Developer Learning Resource for newbie 網頁開發學習資源 – CDN</title>
+    <link>https://web-developer-learning-resource-for-newbie.kejyun.com/tags/cdn/</link>
+    <description>Recent content in CDN on Web Developer Learning Resource for newbie 網頁開發學習資源</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Thu, 22 Apr 2021 08:50:29 +0800</lastBuildDate>
+    
+	  <atom:link href="https://web-developer-learning-resource-for-newbie.kejyun.com/tags/cdn/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: CDN (content delivery network)</title>
+      <link>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/service/cdn/</link>
+      <pubDate>Thu, 22 Apr 2021 08:50:29 +0800</pubDate>
+      
+      <guid>https://web-developer-learning-resource-for-newbie.kejyun.com/docs/service/cdn/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;網站&#34;&gt;網站&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cloudflare.com/&#34;&gt;Cloudflare - The Web Performance &amp;amp; Security Company | Cloudflare&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.fastly.com/&#34;&gt;Fastly | The edge cloud platform behind the best of the web&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;圖片&#34;&gt;圖片&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.wordpress.com/docs/photon/&#34;&gt;Photon | Developer Resources&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.wordpress.com/docs/photon/api/&#34;&gt;Photon API | Developer Resources&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://imgix.com/&#34;&gt;imgix • Real-time image processing and image CDN&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;檢測&#34;&gt;檢測&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cloudflarestatus.com/&#34;&gt;Cloudflare Status&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://downdetector.com/status/cloudflare&#34;&gt;Cloudflare down? Current problems and outages | Downdetector&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://smokeping.4rbj4.com/smokeping/sm.cgi?filter=cloudflare;target=CDN.Cloudflare&#34;&gt;SmokePing - Cloudflare&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cloudflarestatus.com/history.atom&#34;&gt;Cloudflare Status information is also available as an RSS feed&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
